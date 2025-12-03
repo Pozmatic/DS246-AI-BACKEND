@@ -1,0 +1,9407 @@
+{
+  "0": {
+    "neo4j_id": 0,
+    "act_id": "1838_1",
+    "title": "",
+    "year": 1838,
+    "act_number": null,
+    "section_count": 36,
+    "aliases": [
+      ""
+    ]
+  },
+  "37": {
+    "neo4j_id": 37,
+    "act_id": "1838_2",
+    "title": "",
+    "year": 1838,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "52": {
+    "neo4j_id": 52,
+    "act_id": "1839_1",
+    "title": "",
+    "year": 1839,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "59": {
+    "neo4j_id": 59,
+    "act_id": "1849_1",
+    "title": "",
+    "year": 1849,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "62": {
+    "neo4j_id": 62,
+    "act_id": "1850_1",
+    "title": "",
+    "year": 1850,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "65": {
+    "neo4j_id": 65,
+    "act_id": "1850_2",
+    "title": "",
+    "year": 1850,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "72": {
+    "neo4j_id": 72,
+    "act_id": "1851_1",
+    "title": "",
+    "year": 1851,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "81": {
+    "neo4j_id": 81,
+    "act_id": "1851_2",
+    "title": "",
+    "year": 1851,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "88": {
+    "neo4j_id": 88,
+    "act_id": "1852_1",
+    "title": "",
+    "year": 1852,
+    "act_number": null,
+    "section_count": 1,
+    "aliases": [
+      ""
+    ]
+  },
+  "90": {
+    "neo4j_id": 90,
+    "act_id": "1852_2",
+    "title": "",
+    "year": 1852,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "105": {
+    "neo4j_id": 105,
+    "act_id": "1853_1",
+    "title": "",
+    "year": 1853,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "108": {
+    "neo4j_id": 108,
+    "act_id": "1853_2",
+    "title": "",
+    "year": 1853,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "112": {
+    "neo4j_id": 112,
+    "act_id": "1854_1",
+    "title": "",
+    "year": 1854,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "116": {
+    "neo4j_id": 116,
+    "act_id": "1854_2",
+    "title": "",
+    "year": 1854,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "120": {
+    "neo4j_id": 120,
+    "act_id": "1855_1",
+    "title": "",
+    "year": 1855,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "127": {
+    "neo4j_id": 127,
+    "act_id": "1855_2",
+    "title": "",
+    "year": 1855,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "135": {
+    "neo4j_id": 135,
+    "act_id": "1855_3",
+    "title": "",
+    "year": 1855,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "138": {
+    "neo4j_id": 138,
+    "act_id": "1857_1",
+    "title": "",
+    "year": 1857,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "143": {
+    "neo4j_id": 143,
+    "act_id": "1859_1",
+    "title": "",
+    "year": 1859,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "152": {
+    "neo4j_id": 152,
+    "act_id": "1859_2",
+    "title": "",
+    "year": 1859,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "165": {
+    "neo4j_id": 165,
+    "act_id": "1859_3",
+    "title": "",
+    "year": 1859,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "168": {
+    "neo4j_id": 168,
+    "act_id": "1860_1",
+    "title": "",
+    "year": 1860,
+    "act_number": null,
+    "section_count": 37,
+    "aliases": [
+      ""
+    ]
+  },
+  "206": {
+    "neo4j_id": 206,
+    "act_id": "1861_1",
+    "title": "",
+    "year": 1861,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "248": {
+    "neo4j_id": 248,
+    "act_id": "1861_2",
+    "title": "",
+    "year": 1861,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "270": {
+    "neo4j_id": 270,
+    "act_id": "1863_1",
+    "title": "",
+    "year": 1863,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "280": {
+    "neo4j_id": 280,
+    "act_id": "1863_2",
+    "title": "",
+    "year": 1863,
+    "act_number": null,
+    "section_count": 18,
+    "aliases": [
+      ""
+    ]
+  },
+  "299": {
+    "neo4j_id": 299,
+    "act_id": "1863_3",
+    "title": "",
+    "year": 1863,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "325": {
+    "neo4j_id": 325,
+    "act_id": "1864_1",
+    "title": "",
+    "year": 1864,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "332": {
+    "neo4j_id": 332,
+    "act_id": "1867_1",
+    "title": "",
+    "year": 1867,
+    "act_number": null,
+    "section_count": 18,
+    "aliases": [
+      ""
+    ]
+  },
+  "353": {
+    "neo4j_id": 353,
+    "act_id": "1867_2",
+    "title": "",
+    "year": 1867,
+    "act_number": null,
+    "section_count": 18,
+    "aliases": [
+      ""
+    ]
+  },
+  "374": {
+    "neo4j_id": 374,
+    "act_id": "1869_1",
+    "title": "",
+    "year": 1869,
+    "act_number": null,
+    "section_count": 42,
+    "aliases": [
+      ""
+    ]
+  },
+  "417": {
+    "neo4j_id": 417,
+    "act_id": "1869_2",
+    "title": "",
+    "year": 1869,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "451": {
+    "neo4j_id": 451,
+    "act_id": "1869_3",
+    "title": "",
+    "year": 1869,
+    "act_number": null,
+    "section_count": 61,
+    "aliases": [
+      ""
+    ]
+  },
+  "513": {
+    "neo4j_id": 513,
+    "act_id": "1870_1",
+    "title": "",
+    "year": 1870,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "538": {
+    "neo4j_id": 538,
+    "act_id": "1870_2",
+    "title": "",
+    "year": 1870,
+    "act_number": null,
+    "section_count": 47,
+    "aliases": [
+      ""
+    ]
+  },
+  "589": {
+    "neo4j_id": 589,
+    "act_id": "1871_1",
+    "title": "",
+    "year": 1871,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "606": {
+    "neo4j_id": 606,
+    "act_id": "1871_2",
+    "title": "",
+    "year": 1871,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "613": {
+    "neo4j_id": 613,
+    "act_id": "1871_3",
+    "title": "",
+    "year": 1871,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "645": {
+    "neo4j_id": 645,
+    "act_id": "1872_1",
+    "title": "",
+    "year": 1872,
+    "act_number": null,
+    "section_count": 37,
+    "aliases": [
+      ""
+    ]
+  },
+  "683": {
+    "neo4j_id": 683,
+    "act_id": "1872_2",
+    "title": "",
+    "year": 1872,
+    "act_number": null,
+    "section_count": 77,
+    "aliases": [
+      ""
+    ]
+  },
+  "764": {
+    "neo4j_id": 764,
+    "act_id": "1872_3",
+    "title": "",
+    "year": 1872,
+    "act_number": null,
+    "section_count": 175,
+    "aliases": [
+      ""
+    ]
+  },
+  "943": {
+    "neo4j_id": 943,
+    "act_id": "1873_1",
+    "title": "",
+    "year": 1873,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "973": {
+    "neo4j_id": 973,
+    "act_id": "1873_2",
+    "title": "",
+    "year": 1873,
+    "act_number": null,
+    "section_count": 76,
+    "aliases": [
+      ""
+    ]
+  },
+  "1050": {
+    "neo4j_id": 1050,
+    "act_id": "1873_3",
+    "title": "",
+    "year": 1873,
+    "act_number": null,
+    "section_count": 20,
+    "aliases": [
+      ""
+    ]
+  },
+  "1071": {
+    "neo4j_id": 1071,
+    "act_id": "1874_1",
+    "title": "",
+    "year": 1874,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "1086": {
+    "neo4j_id": 1086,
+    "act_id": "1874_2",
+    "title": "",
+    "year": 1874,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "1097": {
+    "neo4j_id": 1097,
+    "act_id": "1875_1",
+    "title": "",
+    "year": 1875,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "1101": {
+    "neo4j_id": 1101,
+    "act_id": "1876_1",
+    "title": "",
+    "year": 1876,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "1117": {
+    "neo4j_id": 1117,
+    "act_id": "1876_2",
+    "title": "",
+    "year": 1876,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "1143": {
+    "neo4j_id": 1143,
+    "act_id": "1876_3",
+    "title": "",
+    "year": 1876,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "1187": {
+    "neo4j_id": 1187,
+    "act_id": "1877_1",
+    "title": "",
+    "year": 1877,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "1229": {
+    "neo4j_id": 1229,
+    "act_id": "1878_1",
+    "title": "",
+    "year": 1878,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "1251": {
+    "neo4j_id": 1251,
+    "act_id": "1878_2",
+    "title": "",
+    "year": 1878,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "1285": {
+    "neo4j_id": 1285,
+    "act_id": "1879_1",
+    "title": "",
+    "year": 1879,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "1321": {
+    "neo4j_id": 1321,
+    "act_id": "1879_2",
+    "title": "",
+    "year": 1879,
+    "act_number": null,
+    "section_count": 61,
+    "aliases": [
+      ""
+    ]
+  },
+  "1386": {
+    "neo4j_id": 1386,
+    "act_id": "1880_1",
+    "title": "",
+    "year": 1880,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "1396": {
+    "neo4j_id": 1396,
+    "act_id": "1880_2",
+    "title": "",
+    "year": 1880,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "1403": {
+    "neo4j_id": 1403,
+    "act_id": "1881_1",
+    "title": "",
+    "year": 1881,
+    "act_number": null,
+    "section_count": 162,
+    "aliases": [
+      ""
+    ]
+  },
+  "1953": {
+    "neo4j_id": 1953,
+    "act_id": "1881_2",
+    "title": "",
+    "year": 1881,
+    "act_number": null,
+    "section_count": 147,
+    "aliases": [
+      ""
+    ]
+  },
+  "2257": {
+    "neo4j_id": 2257,
+    "act_id": "1882_1",
+    "title": "",
+    "year": 1882,
+    "act_number": null,
+    "section_count": 89,
+    "aliases": [
+      ""
+    ]
+  },
+  "2565": {
+    "neo4j_id": 2565,
+    "act_id": "1882_2",
+    "title": "",
+    "year": 1882,
+    "act_number": null,
+    "section_count": 94,
+    "aliases": [
+      ""
+    ]
+  },
+  "2801": {
+    "neo4j_id": 2801,
+    "act_id": "1882_3",
+    "title": "",
+    "year": 1882,
+    "act_number": null,
+    "section_count": 127,
+    "aliases": [
+      ""
+    ]
+  },
+  "3210": {
+    "neo4j_id": 3210,
+    "act_id": "1882_4",
+    "title": "",
+    "year": 1882,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "3233": {
+    "neo4j_id": 3233,
+    "act_id": "1882_5",
+    "title": "",
+    "year": 1882,
+    "act_number": null,
+    "section_count": 64,
+    "aliases": [
+      ""
+    ]
+  },
+  "3351": {
+    "neo4j_id": 3351,
+    "act_id": "1883_1",
+    "title": "",
+    "year": 1883,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "3391": {
+    "neo4j_id": 3391,
+    "act_id": "1883_2",
+    "title": "",
+    "year": 1883,
+    "act_number": null,
+    "section_count": 78,
+    "aliases": [
+      ""
+    ]
+  },
+  "3672": {
+    "neo4j_id": 3672,
+    "act_id": "1884_1",
+    "title": "",
+    "year": 1884,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "3691": {
+    "neo4j_id": 3691,
+    "act_id": "1884_2",
+    "title": "",
+    "year": 1884,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "3819": {
+    "neo4j_id": 3819,
+    "act_id": "1886_1",
+    "title": "",
+    "year": 1886,
+    "act_number": null,
+    "section_count": 51,
+    "aliases": [
+      ""
+    ]
+  },
+  "4052": {
+    "neo4j_id": 4052,
+    "act_id": "1886_2",
+    "title": "",
+    "year": 1886,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "4063": {
+    "neo4j_id": 4063,
+    "act_id": "1886_3",
+    "title": "",
+    "year": 1886,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "4172": {
+    "neo4j_id": 4172,
+    "act_id": "1887_1",
+    "title": "",
+    "year": 1887,
+    "act_number": null,
+    "section_count": 153,
+    "aliases": [
+      ""
+    ]
+  },
+  "4684": {
+    "neo4j_id": 4684,
+    "act_id": "1887_2",
+    "title": "",
+    "year": 1887,
+    "act_number": null,
+    "section_count": 112,
+    "aliases": [
+      ""
+    ]
+  },
+  "5054": {
+    "neo4j_id": 5054,
+    "act_id": "1887_3",
+    "title": "",
+    "year": 1887,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "5090": {
+    "neo4j_id": 5090,
+    "act_id": "1887_4",
+    "title": "",
+    "year": 1887,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "5102": {
+    "neo4j_id": 5102,
+    "act_id": "1887_5",
+    "title": "",
+    "year": 1887,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "5211": {
+    "neo4j_id": 5211,
+    "act_id": "1887_6",
+    "title": "",
+    "year": 1887,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "5298": {
+    "neo4j_id": 5298,
+    "act_id": "1888_1",
+    "title": "",
+    "year": 1888,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "5308": {
+    "neo4j_id": 5308,
+    "act_id": "1888_2",
+    "title": "",
+    "year": 1888,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "5326": {
+    "neo4j_id": 5326,
+    "act_id": "1888_3",
+    "title": "",
+    "year": 1888,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "5366": {
+    "neo4j_id": 5366,
+    "act_id": "1890_1",
+    "title": "",
+    "year": 1890,
+    "act_number": null,
+    "section_count": 54,
+    "aliases": [
+      ""
+    ]
+  },
+  "5462": {
+    "neo4j_id": 5462,
+    "act_id": "1890_2",
+    "title": "",
+    "year": 1890,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "5485": {
+    "neo4j_id": 5485,
+    "act_id": "1890_3",
+    "title": "",
+    "year": 1890,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "5505": {
+    "neo4j_id": 5505,
+    "act_id": "1890_4",
+    "title": "",
+    "year": 1890,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "5518": {
+    "neo4j_id": 5518,
+    "act_id": "1891_1",
+    "title": "",
+    "year": 1891,
+    "act_number": null,
+    "section_count": 1,
+    "aliases": [
+      ""
+    ]
+  },
+  "5520": {
+    "neo4j_id": 5520,
+    "act_id": "1891_2",
+    "title": "",
+    "year": 1891,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "5532": {
+    "neo4j_id": 5532,
+    "act_id": "1891_3",
+    "title": "",
+    "year": 1891,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "5545": {
+    "neo4j_id": 5545,
+    "act_id": "1892_1",
+    "title": "",
+    "year": 1892,
+    "act_number": null,
+    "section_count": 18,
+    "aliases": [
+      ""
+    ]
+  },
+  "5575": {
+    "neo4j_id": 5575,
+    "act_id": "1892_2",
+    "title": "",
+    "year": 1892,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "5600": {
+    "neo4j_id": 5600,
+    "act_id": "1893_1",
+    "title": "",
+    "year": 1893,
+    "act_number": null,
+    "section_count": 19,
+    "aliases": [
+      ""
+    ]
+  },
+  "5657": {
+    "neo4j_id": 5657,
+    "act_id": "1893_2",
+    "title": "",
+    "year": 1893,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "5668": {
+    "neo4j_id": 5668,
+    "act_id": "1894_1",
+    "title": "",
+    "year": 1894,
+    "act_number": null,
+    "section_count": 60,
+    "aliases": [
+      ""
+    ]
+  },
+  "5845": {
+    "neo4j_id": 5845,
+    "act_id": "1897_1",
+    "title": "",
+    "year": 1897,
+    "act_number": null,
+    "section_count": 34,
+    "aliases": [
+      ""
+    ]
+  },
+  "5898": {
+    "neo4j_id": 5898,
+    "act_id": "1897_2",
+    "title": "",
+    "year": 1897,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "5925": {
+    "neo4j_id": 5925,
+    "act_id": "1898_1",
+    "title": "",
+    "year": 1898,
+    "act_number": null,
+    "section_count": 99,
+    "aliases": [
+      ""
+    ]
+  },
+  "6025": {
+    "neo4j_id": 6025,
+    "act_id": "1898_2",
+    "title": "",
+    "year": 1898,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "6032": {
+    "neo4j_id": 6032,
+    "act_id": "1899_1",
+    "title": "",
+    "year": 1899,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "6074": {
+    "neo4j_id": 6074,
+    "act_id": "1899_2",
+    "title": "",
+    "year": 1899,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "6080": {
+    "neo4j_id": 6080,
+    "act_id": "1899_3",
+    "title": "",
+    "year": 1899,
+    "act_number": null,
+    "section_count": 89,
+    "aliases": [
+      ""
+    ]
+  },
+  "6172": {
+    "neo4j_id": 6172,
+    "act_id": "1900_1",
+    "title": "",
+    "year": 1900,
+    "act_number": null,
+    "section_count": 39,
+    "aliases": [
+      ""
+    ]
+  },
+  "6212": {
+    "neo4j_id": 6212,
+    "act_id": "1901_1",
+    "title": "",
+    "year": 1901,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "6222": {
+    "neo4j_id": 6222,
+    "act_id": "1903_1",
+    "title": "",
+    "year": 1903,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "6268": {
+    "neo4j_id": 6268,
+    "act_id": "1903_2",
+    "title": "",
+    "year": 1903,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "6275": {
+    "neo4j_id": 6275,
+    "act_id": "1904_1",
+    "title": "",
+    "year": 1904,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "6303": {
+    "neo4j_id": 6303,
+    "act_id": "1908_1",
+    "title": "",
+    "year": 1908,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "6310": {
+    "neo4j_id": 6310,
+    "act_id": "1908_2",
+    "title": "",
+    "year": 1908,
+    "act_number": null,
+    "section_count": 104,
+    "aliases": [
+      ""
+    ]
+  },
+  "6415": {
+    "neo4j_id": 6415,
+    "act_id": "1908_3",
+    "title": "",
+    "year": 1908,
+    "act_number": null,
+    "section_count": 200,
+    "aliases": [
+      ""
+    ]
+  },
+  "6616": {
+    "neo4j_id": 6616,
+    "act_id": "1908_4",
+    "title": "",
+    "year": 1908,
+    "act_number": null,
+    "section_count": 70,
+    "aliases": [
+      ""
+    ]
+  },
+  "6687": {
+    "neo4j_id": 6687,
+    "act_id": "1908_5",
+    "title": "",
+    "year": 1908,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "6694": {
+    "neo4j_id": 6694,
+    "act_id": "1909_1",
+    "title": "",
+    "year": 1909,
+    "act_number": null,
+    "section_count": 127,
+    "aliases": [
+      ""
+    ]
+  },
+  "6823": {
+    "neo4j_id": 6823,
+    "act_id": "1909_2",
+    "title": "",
+    "year": 1909,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "6830": {
+    "neo4j_id": 6830,
+    "act_id": "1910_1",
+    "title": "",
+    "year": 1910,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "6846": {
+    "neo4j_id": 6846,
+    "act_id": "1912_1",
+    "title": "",
+    "year": 1912,
+    "act_number": null,
+    "section_count": 50,
+    "aliases": [
+      ""
+    ]
+  },
+  "6897": {
+    "neo4j_id": 6897,
+    "act_id": "1913_1",
+    "title": "",
+    "year": 1913,
+    "act_number": null,
+    "section_count": 32,
+    "aliases": [
+      ""
+    ]
+  },
+  "6930": {
+    "neo4j_id": 6930,
+    "act_id": "1913_2",
+    "title": "",
+    "year": 1913,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "6937": {
+    "neo4j_id": 6937,
+    "act_id": "1914_1",
+    "title": "",
+    "year": 1914,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "6951": {
+    "neo4j_id": 6951,
+    "act_id": "1914_2",
+    "title": "",
+    "year": 1914,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "6960": {
+    "neo4j_id": 6960,
+    "act_id": "1915_1",
+    "title": "",
+    "year": 1915,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "6991": {
+    "neo4j_id": 6991,
+    "act_id": "1915_2",
+    "title": "",
+    "year": 1915,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "7015": {
+    "neo4j_id": 7015,
+    "act_id": "1916_1",
+    "title": "",
+    "year": 1916,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "7021": {
+    "neo4j_id": 7021,
+    "act_id": "1917_1",
+    "title": "",
+    "year": 1917,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "7026": {
+    "neo4j_id": 7026,
+    "act_id": "1917_2",
+    "title": "",
+    "year": 1917,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "7041": {
+    "neo4j_id": 7041,
+    "act_id": "1917_3",
+    "title": "",
+    "year": 1917,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "7048": {
+    "neo4j_id": 7048,
+    "act_id": "1918_1",
+    "title": "",
+    "year": 1918,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "7053": {
+    "neo4j_id": 7053,
+    "act_id": "1919_1",
+    "title": "",
+    "year": 1919,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "7056": {
+    "neo4j_id": 7056,
+    "act_id": "1919_2",
+    "title": "",
+    "year": 1919,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "7067": {
+    "neo4j_id": 7067,
+    "act_id": "1920_1",
+    "title": "",
+    "year": 1920,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "7097": {
+    "neo4j_id": 7097,
+    "act_id": "1920_2",
+    "title": "",
+    "year": 1920,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "7115": {
+    "neo4j_id": 7115,
+    "act_id": "1920_3",
+    "title": "",
+    "year": 1920,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "7128": {
+    "neo4j_id": 7128,
+    "act_id": "1920_4",
+    "title": "",
+    "year": 1920,
+    "act_number": null,
+    "section_count": 87,
+    "aliases": [
+      ""
+    ]
+  },
+  "7224": {
+    "neo4j_id": 7224,
+    "act_id": "1921_1",
+    "title": "",
+    "year": 1921,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "7236": {
+    "neo4j_id": 7236,
+    "act_id": "1922_1",
+    "title": "",
+    "year": 1922,
+    "act_number": null,
+    "section_count": 40,
+    "aliases": [
+      ""
+    ]
+  },
+  "7277": {
+    "neo4j_id": 7277,
+    "act_id": "1923_1",
+    "title": "",
+    "year": 1923,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "7293": {
+    "neo4j_id": 7293,
+    "act_id": "1923_2",
+    "title": "",
+    "year": 1923,
+    "act_number": null,
+    "section_count": 38,
+    "aliases": [
+      ""
+    ]
+  },
+  "7332": {
+    "neo4j_id": 7332,
+    "act_id": "1923_3",
+    "title": "",
+    "year": 1923,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "7347": {
+    "neo4j_id": 7347,
+    "act_id": "1925_1",
+    "title": "",
+    "year": 1925,
+    "act_number": null,
+    "section_count": 1,
+    "aliases": [
+      ""
+    ]
+  },
+  "7349": {
+    "neo4j_id": 7349,
+    "act_id": "1925_2",
+    "title": "",
+    "year": 1925,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "7355": {
+    "neo4j_id": 7355,
+    "act_id": "1925_3",
+    "title": "",
+    "year": 1925,
+    "act_number": null,
+    "section_count": 383,
+    "aliases": [
+      ""
+    ]
+  },
+  "7739": {
+    "neo4j_id": 7739,
+    "act_id": "1925_4",
+    "title": "",
+    "year": 1925,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "7763": {
+    "neo4j_id": 7763,
+    "act_id": "1925_5",
+    "title": "",
+    "year": 1925,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "7778": {
+    "neo4j_id": 7778,
+    "act_id": "1926_1",
+    "title": "",
+    "year": 1926,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "7811": {
+    "neo4j_id": 7811,
+    "act_id": "1927_1",
+    "title": "",
+    "year": 1927,
+    "act_number": null,
+    "section_count": 107,
+    "aliases": [
+      ""
+    ]
+  },
+  "7921": {
+    "neo4j_id": 7921,
+    "act_id": "1930_1",
+    "title": "",
+    "year": 1930,
+    "act_number": null,
+    "section_count": 65,
+    "aliases": [
+      ""
+    ]
+  },
+  "7987": {
+    "neo4j_id": 7987,
+    "act_id": "1930_2",
+    "title": "",
+    "year": 1930,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "7992": {
+    "neo4j_id": 7992,
+    "act_id": "1932_1",
+    "title": "",
+    "year": 1932,
+    "act_number": null,
+    "section_count": 75,
+    "aliases": [
+      ""
+    ]
+  },
+  "8068": {
+    "neo4j_id": 8068,
+    "act_id": "1933_1",
+    "title": "",
+    "year": 1933,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "8097": {
+    "neo4j_id": 8097,
+    "act_id": "1934_1",
+    "title": "",
+    "year": 1934,
+    "act_number": null,
+    "section_count": 84,
+    "aliases": [
+      ""
+    ]
+  },
+  "8182": {
+    "neo4j_id": 8182,
+    "act_id": "1934_2",
+    "title": "",
+    "year": 1934,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "8214": {
+    "neo4j_id": 8214,
+    "act_id": "1936_1",
+    "title": "",
+    "year": 1936,
+    "act_number": null,
+    "section_count": 52,
+    "aliases": [
+      ""
+    ]
+  },
+  "8267": {
+    "neo4j_id": 8267,
+    "act_id": "1936_2",
+    "title": "",
+    "year": 1936,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "8293": {
+    "neo4j_id": 8293,
+    "act_id": "1937_1",
+    "title": "",
+    "year": 1937,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "8300": {
+    "neo4j_id": 8300,
+    "act_id": "1937_2",
+    "title": "",
+    "year": 1937,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "8303": {
+    "neo4j_id": 8303,
+    "act_id": "1937_3",
+    "title": "",
+    "year": 1937,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "8318": {
+    "neo4j_id": 8318,
+    "act_id": "1938_1",
+    "title": "",
+    "year": 1938,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "8332": {
+    "neo4j_id": 8332,
+    "act_id": "1938_2",
+    "title": "",
+    "year": 1938,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "8337": {
+    "neo4j_id": 8337,
+    "act_id": "1938_3",
+    "title": "",
+    "year": 1938,
+    "act_number": null,
+    "section_count": 147,
+    "aliases": [
+      ""
+    ]
+  },
+  "8485": {
+    "neo4j_id": 8485,
+    "act_id": "1939_1",
+    "title": "",
+    "year": 1939,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "8492": {
+    "neo4j_id": 8492,
+    "act_id": "1939_2",
+    "title": "",
+    "year": 1939,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "8515": {
+    "neo4j_id": 8515,
+    "act_id": "1940_1",
+    "title": "",
+    "year": 1940,
+    "act_number": null,
+    "section_count": 73,
+    "aliases": [
+      ""
+    ]
+  },
+  "8589": {
+    "neo4j_id": 8589,
+    "act_id": "1942_1",
+    "title": "",
+    "year": 1942,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "8635": {
+    "neo4j_id": 8635,
+    "act_id": "1943_1",
+    "title": "",
+    "year": 1943,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "8643": {
+    "neo4j_id": 8643,
+    "act_id": "1944_1",
+    "title": "",
+    "year": 1944,
+    "act_number": null,
+    "section_count": 75,
+    "aliases": [
+      ""
+    ]
+  },
+  "8719": {
+    "neo4j_id": 8719,
+    "act_id": "1944_2",
+    "title": "",
+    "year": 1944,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "8751": {
+    "neo4j_id": 8751,
+    "act_id": "1945_1",
+    "title": "",
+    "year": 1945,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "8762": {
+    "neo4j_id": 8762,
+    "act_id": "1946_1",
+    "title": "",
+    "year": 1946,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "8773": {
+    "neo4j_id": 8773,
+    "act_id": "1946_2",
+    "title": "",
+    "year": 1946,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "8790": {
+    "neo4j_id": 8790,
+    "act_id": "1947_1",
+    "title": "",
+    "year": 1947,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "8795": {
+    "neo4j_id": 8795,
+    "act_id": "1947_2",
+    "title": "",
+    "year": 1947,
+    "act_number": null,
+    "section_count": 81,
+    "aliases": [
+      ""
+    ]
+  },
+  "8877": {
+    "neo4j_id": 8877,
+    "act_id": "1947_3",
+    "title": "",
+    "year": 1947,
+    "act_number": null,
+    "section_count": 1,
+    "aliases": [
+      ""
+    ]
+  },
+  "8879": {
+    "neo4j_id": 8879,
+    "act_id": "1947_4",
+    "title": "",
+    "year": 1947,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "8911": {
+    "neo4j_id": 8911,
+    "act_id": "1947_5",
+    "title": "",
+    "year": 1947,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "8939": {
+    "neo4j_id": 8939,
+    "act_id": "1947_6",
+    "title": "",
+    "year": 1947,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "8944": {
+    "neo4j_id": 8944,
+    "act_id": "1948_1",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 34,
+    "aliases": [
+      ""
+    ]
+  },
+  "8979": {
+    "neo4j_id": 8979,
+    "act_id": "1948_2",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "8986": {
+    "neo4j_id": 8986,
+    "act_id": "1948_3",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "9012": {
+    "neo4j_id": 9012,
+    "act_id": "1948_4",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 131,
+    "aliases": [
+      ""
+    ]
+  },
+  "9145": {
+    "neo4j_id": 9145,
+    "act_id": "1948_5",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "9169": {
+    "neo4j_id": 9169,
+    "act_id": "1948_6",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "9183": {
+    "neo4j_id": 9183,
+    "act_id": "1948_7",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 75,
+    "aliases": [
+      ""
+    ]
+  },
+  "9259": {
+    "neo4j_id": 9259,
+    "act_id": "1948_8",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "9273": {
+    "neo4j_id": 9273,
+    "act_id": "1948_9",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "9289": {
+    "neo4j_id": 9289,
+    "act_id": "1948_10",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "9298": {
+    "neo4j_id": 9298,
+    "act_id": "1948_11",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "9332": {
+    "neo4j_id": 9332,
+    "act_id": "1948_12",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 117,
+    "aliases": [
+      ""
+    ]
+  },
+  "9450": {
+    "neo4j_id": 9450,
+    "act_id": "1948_13",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "9475": {
+    "neo4j_id": 9475,
+    "act_id": "1948_14",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "9489": {
+    "neo4j_id": 9489,
+    "act_id": "1948_15",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 60,
+    "aliases": [
+      ""
+    ]
+  },
+  "9550": {
+    "neo4j_id": 9550,
+    "act_id": "1948_16",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "9577": {
+    "neo4j_id": 9577,
+    "act_id": "1948_17",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 47,
+    "aliases": [
+      ""
+    ]
+  },
+  "9625": {
+    "neo4j_id": 9625,
+    "act_id": "1948_18",
+    "title": "",
+    "year": 1948,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "9635": {
+    "neo4j_id": 9635,
+    "act_id": "1949_1",
+    "title": "",
+    "year": 1949,
+    "act_number": null,
+    "section_count": 19,
+    "aliases": [
+      ""
+    ]
+  },
+  "9655": {
+    "neo4j_id": 9655,
+    "act_id": "1949_2",
+    "title": "",
+    "year": 1949,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "9702": {
+    "neo4j_id": 9702,
+    "act_id": "1949_3",
+    "title": "",
+    "year": 1949,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "9712": {
+    "neo4j_id": 9712,
+    "act_id": "1949_4",
+    "title": "",
+    "year": 1949,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "9748": {
+    "neo4j_id": 9748,
+    "act_id": "1949_5",
+    "title": "",
+    "year": 1949,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "9756": {
+    "neo4j_id": 9756,
+    "act_id": "1949_6",
+    "title": "",
+    "year": 1949,
+    "act_number": null,
+    "section_count": 79,
+    "aliases": [
+      ""
+    ]
+  },
+  "9836": {
+    "neo4j_id": 9836,
+    "act_id": "1949_7",
+    "title": "",
+    "year": 1949,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "9844": {
+    "neo4j_id": 9844,
+    "act_id": "1949_8",
+    "title": "",
+    "year": 1949,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "9852": {
+    "neo4j_id": 9852,
+    "act_id": "1949_9",
+    "title": "",
+    "year": 1949,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "9860": {
+    "neo4j_id": 9860,
+    "act_id": "1950_1",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "9907": {
+    "neo4j_id": 9907,
+    "act_id": "1950_2",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "9915": {
+    "neo4j_id": 9915,
+    "act_id": "1950_3",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 194,
+    "aliases": [
+      ""
+    ]
+  },
+  "10110": {
+    "neo4j_id": 10110,
+    "act_id": "1950_4",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "10116": {
+    "neo4j_id": 10116,
+    "act_id": "1950_5",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "10134": {
+    "neo4j_id": 10134,
+    "act_id": "1950_6",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "10138": {
+    "neo4j_id": 10138,
+    "act_id": "1950_7",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "10144": {
+    "neo4j_id": 10144,
+    "act_id": "1950_8",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 194,
+    "aliases": [
+      ""
+    ]
+  },
+  "10339": {
+    "neo4j_id": 10339,
+    "act_id": "1950_9",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 203,
+    "aliases": [
+      ""
+    ]
+  },
+  "10543": {
+    "neo4j_id": 10543,
+    "act_id": "1950_10",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "10547": {
+    "neo4j_id": 10547,
+    "act_id": "1950_11",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "10553": {
+    "neo4j_id": 10553,
+    "act_id": "1950_12",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "10560": {
+    "neo4j_id": 10560,
+    "act_id": "1950_13",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "10572": {
+    "neo4j_id": 10572,
+    "act_id": "1950_14",
+    "title": "",
+    "year": 1950,
+    "act_number": null,
+    "section_count": 52,
+    "aliases": [
+      ""
+    ]
+  },
+  "10625": {
+    "neo4j_id": 10625,
+    "act_id": "1951_1",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "10632": {
+    "neo4j_id": 10632,
+    "act_id": "1951_2",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "10668": {
+    "neo4j_id": 10668,
+    "act_id": "1951_3",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 58,
+    "aliases": [
+      ""
+    ]
+  },
+  "10727": {
+    "neo4j_id": 10727,
+    "act_id": "1951_4",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 51,
+    "aliases": [
+      ""
+    ]
+  },
+  "10779": {
+    "neo4j_id": 10779,
+    "act_id": "1951_5",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 56,
+    "aliases": [
+      ""
+    ]
+  },
+  "10837": {
+    "neo4j_id": 10837,
+    "act_id": "1951_6",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "10846": {
+    "neo4j_id": 10846,
+    "act_id": "1951_7",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "10849": {
+    "neo4j_id": 10849,
+    "act_id": "1951_8",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "10855": {
+    "neo4j_id": 10855,
+    "act_id": "1951_9",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 143,
+    "aliases": [
+      ""
+    ]
+  },
+  "10999": {
+    "neo4j_id": 10999,
+    "act_id": "1951_10",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "11015": {
+    "neo4j_id": 11015,
+    "act_id": "1951_11",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "11020": {
+    "neo4j_id": 11020,
+    "act_id": "1951_12",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "11030": {
+    "neo4j_id": 11030,
+    "act_id": "1951_13",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "11039": {
+    "neo4j_id": 11039,
+    "act_id": "1951_14",
+    "title": "",
+    "year": 1951,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "11043": {
+    "neo4j_id": 11043,
+    "act_id": "1952_1",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "11048": {
+    "neo4j_id": 11048,
+    "act_id": "1952_2",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "11065": {
+    "neo4j_id": 11065,
+    "act_id": "1952_3",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "11096": {
+    "neo4j_id": 11096,
+    "act_id": "1952_4",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "11106": {
+    "neo4j_id": 11106,
+    "act_id": "1952_5",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 51,
+    "aliases": [
+      ""
+    ]
+  },
+  "11158": {
+    "neo4j_id": 11158,
+    "act_id": "1952_6",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 47,
+    "aliases": [
+      ""
+    ]
+  },
+  "11206": {
+    "neo4j_id": 11206,
+    "act_id": "1952_7",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 36,
+    "aliases": [
+      ""
+    ]
+  },
+  "11243": {
+    "neo4j_id": 11243,
+    "act_id": "1952_8",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "11269": {
+    "neo4j_id": 11269,
+    "act_id": "1952_9",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "11313": {
+    "neo4j_id": 11313,
+    "act_id": "1952_10",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "11349": {
+    "neo4j_id": 11349,
+    "act_id": "1952_11",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "11356": {
+    "neo4j_id": 11356,
+    "act_id": "1952_12",
+    "title": "",
+    "year": 1952,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "11373": {
+    "neo4j_id": 11373,
+    "act_id": "1953_1",
+    "title": "",
+    "year": 1953,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "11401": {
+    "neo4j_id": 11401,
+    "act_id": "1953_2",
+    "title": "",
+    "year": 1953,
+    "act_number": null,
+    "section_count": 63,
+    "aliases": [
+      ""
+    ]
+  },
+  "11465": {
+    "neo4j_id": 11465,
+    "act_id": "1953_3",
+    "title": "",
+    "year": 1953,
+    "act_number": null,
+    "section_count": 70,
+    "aliases": [
+      ""
+    ]
+  },
+  "11536": {
+    "neo4j_id": 11536,
+    "act_id": "1953_4",
+    "title": "",
+    "year": 1953,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "11543": {
+    "neo4j_id": 11543,
+    "act_id": "1953_5",
+    "title": "",
+    "year": 1953,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "11555": {
+    "neo4j_id": 11555,
+    "act_id": "1953_6",
+    "title": "",
+    "year": 1953,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "11560": {
+    "neo4j_id": 11560,
+    "act_id": "1954_1",
+    "title": "",
+    "year": 1954,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "11577": {
+    "neo4j_id": 11577,
+    "act_id": "1954_2",
+    "title": "",
+    "year": 1954,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "11606": {
+    "neo4j_id": 11606,
+    "act_id": "1954_3",
+    "title": "",
+    "year": 1954,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "11614": {
+    "neo4j_id": 11614,
+    "act_id": "1954_4",
+    "title": "",
+    "year": 1954,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "11619": {
+    "neo4j_id": 11619,
+    "act_id": "1954_5",
+    "title": "",
+    "year": 1954,
+    "act_number": null,
+    "section_count": 51,
+    "aliases": [
+      ""
+    ]
+  },
+  "11671": {
+    "neo4j_id": 11671,
+    "act_id": "1954_6",
+    "title": "",
+    "year": 1954,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "11686": {
+    "neo4j_id": 11686,
+    "act_id": "1954_7",
+    "title": "",
+    "year": 1954,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "11691": {
+    "neo4j_id": 11691,
+    "act_id": "1954_8",
+    "title": "",
+    "year": 1954,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "11720": {
+    "neo4j_id": 11720,
+    "act_id": "1955_1",
+    "title": "",
+    "year": 1955,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "11744": {
+    "neo4j_id": 11744,
+    "act_id": "1955_2",
+    "title": "",
+    "year": 1955,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "11775": {
+    "neo4j_id": 11775,
+    "act_id": "1955_3",
+    "title": "",
+    "year": 1955,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "11798": {
+    "neo4j_id": 11798,
+    "act_id": "1955_4",
+    "title": "",
+    "year": 1955,
+    "act_number": null,
+    "section_count": 20,
+    "aliases": [
+      ""
+    ]
+  },
+  "11819": {
+    "neo4j_id": 11819,
+    "act_id": "1955_5",
+    "title": "",
+    "year": 1955,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "11830": {
+    "neo4j_id": 11830,
+    "act_id": "1955_6",
+    "title": "",
+    "year": 1955,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "11852": {
+    "neo4j_id": 11852,
+    "act_id": "1955_7",
+    "title": "",
+    "year": 1955,
+    "act_number": null,
+    "section_count": 20,
+    "aliases": [
+      ""
+    ]
+  },
+  "11873": {
+    "neo4j_id": 11873,
+    "act_id": "1955_8",
+    "title": "",
+    "year": 1955,
+    "act_number": null,
+    "section_count": 55,
+    "aliases": [
+      ""
+    ]
+  },
+  "11929": {
+    "neo4j_id": 11929,
+    "act_id": "1955_9",
+    "title": "",
+    "year": 1955,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "11975": {
+    "neo4j_id": 11975,
+    "act_id": "1955_10",
+    "title": "",
+    "year": 1955,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "12002": {
+    "neo4j_id": 12002,
+    "act_id": "1956_1",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "12035": {
+    "neo4j_id": 12035,
+    "act_id": "1956_2",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "12049": {
+    "neo4j_id": 12049,
+    "act_id": "1956_3",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 53,
+    "aliases": [
+      ""
+    ]
+  },
+  "12104": {
+    "neo4j_id": 12104,
+    "act_id": "1956_4",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 39,
+    "aliases": [
+      ""
+    ]
+  },
+  "12144": {
+    "neo4j_id": 12144,
+    "act_id": "1956_5",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "12169": {
+    "neo4j_id": 12169,
+    "act_id": "1956_6",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "12199": {
+    "neo4j_id": 12199,
+    "act_id": "1956_7",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 69,
+    "aliases": [
+      ""
+    ]
+  },
+  "12269": {
+    "neo4j_id": 12269,
+    "act_id": "1956_8",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "12299": {
+    "neo4j_id": 12299,
+    "act_id": "1956_9",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "12312": {
+    "neo4j_id": 12312,
+    "act_id": "1956_10",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "12335": {
+    "neo4j_id": 12335,
+    "act_id": "1956_11",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 131,
+    "aliases": [
+      ""
+    ]
+  },
+  "12467": {
+    "neo4j_id": 12467,
+    "act_id": "1956_12",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "12483": {
+    "neo4j_id": 12483,
+    "act_id": "1956_13",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 36,
+    "aliases": [
+      ""
+    ]
+  },
+  "12520": {
+    "neo4j_id": 12520,
+    "act_id": "1956_14",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 58,
+    "aliases": [
+      ""
+    ]
+  },
+  "12579": {
+    "neo4j_id": 12579,
+    "act_id": "1956_15",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 52,
+    "aliases": [
+      ""
+    ]
+  },
+  "12632": {
+    "neo4j_id": 12632,
+    "act_id": "1956_16",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "12658": {
+    "neo4j_id": 12658,
+    "act_id": "1956_17",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "12687": {
+    "neo4j_id": 12687,
+    "act_id": "1956_18",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "12716": {
+    "neo4j_id": 12716,
+    "act_id": "1956_19",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "12731": {
+    "neo4j_id": 12731,
+    "act_id": "1956_20",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "12743": {
+    "neo4j_id": 12743,
+    "act_id": "1956_21",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 1,
+    "aliases": [
+      ""
+    ]
+  },
+  "12745": {
+    "neo4j_id": 12745,
+    "act_id": "1956_22",
+    "title": "",
+    "year": 1956,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "12771": {
+    "neo4j_id": 12771,
+    "act_id": "1958_1",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "12779": {
+    "neo4j_id": 12779,
+    "act_id": "1958_2",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "12782": {
+    "neo4j_id": 12782,
+    "act_id": "1958_3",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 555,
+    "aliases": [
+      ""
+    ]
+  },
+  "13338": {
+    "neo4j_id": 13338,
+    "act_id": "1958_4",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 52,
+    "aliases": [
+      ""
+    ]
+  },
+  "13391": {
+    "neo4j_id": 13391,
+    "act_id": "1958_5",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 62,
+    "aliases": [
+      ""
+    ]
+  },
+  "13454": {
+    "neo4j_id": 13454,
+    "act_id": "1958_6",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "13459": {
+    "neo4j_id": 13459,
+    "act_id": "1958_7",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "13474": {
+    "neo4j_id": 13474,
+    "act_id": "1958_8",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "13489": {
+    "neo4j_id": 13489,
+    "act_id": "1958_9",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 57,
+    "aliases": [
+      ""
+    ]
+  },
+  "13547": {
+    "neo4j_id": 13547,
+    "act_id": "1958_10",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "13575": {
+    "neo4j_id": 13575,
+    "act_id": "1958_11",
+    "title": "",
+    "year": 1958,
+    "act_number": null,
+    "section_count": 19,
+    "aliases": [
+      ""
+    ]
+  },
+  "13595": {
+    "neo4j_id": 13595,
+    "act_id": "1959_1",
+    "title": "",
+    "year": 1959,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "13642": {
+    "neo4j_id": 13642,
+    "act_id": "1959_2",
+    "title": "",
+    "year": 1959,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "13691": {
+    "neo4j_id": 13691,
+    "act_id": "1959_3",
+    "title": "",
+    "year": 1959,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "13702": {
+    "neo4j_id": 13702,
+    "act_id": "1959_4",
+    "title": "",
+    "year": 1959,
+    "act_number": null,
+    "section_count": 19,
+    "aliases": [
+      ""
+    ]
+  },
+  "13722": {
+    "neo4j_id": 13722,
+    "act_id": "1959_5",
+    "title": "",
+    "year": 1959,
+    "act_number": null,
+    "section_count": 54,
+    "aliases": [
+      ""
+    ]
+  },
+  "13777": {
+    "neo4j_id": 13777,
+    "act_id": "1959_6",
+    "title": "",
+    "year": 1959,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "13788": {
+    "neo4j_id": 13788,
+    "act_id": "1959_7",
+    "title": "",
+    "year": 1959,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "13806": {
+    "neo4j_id": 13806,
+    "act_id": "1960_1",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 20,
+    "aliases": [
+      ""
+    ]
+  },
+  "13827": {
+    "neo4j_id": 13827,
+    "act_id": "1960_2",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "13835": {
+    "neo4j_id": 13835,
+    "act_id": "1960_3",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 94,
+    "aliases": [
+      ""
+    ]
+  },
+  "13930": {
+    "neo4j_id": 13930,
+    "act_id": "1960_4",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 40,
+    "aliases": [
+      ""
+    ]
+  },
+  "13971": {
+    "neo4j_id": 13971,
+    "act_id": "1960_5",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "13998": {
+    "neo4j_id": 13998,
+    "act_id": "1960_6",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "14010": {
+    "neo4j_id": 14010,
+    "act_id": "1960_7",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "14020": {
+    "neo4j_id": 14020,
+    "act_id": "1960_8",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "14052": {
+    "neo4j_id": 14052,
+    "act_id": "1960_9",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 198,
+    "aliases": [
+      ""
+    ]
+  },
+  "14251": {
+    "neo4j_id": 14251,
+    "act_id": "1960_10",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 170,
+    "aliases": [
+      ""
+    ]
+  },
+  "14422": {
+    "neo4j_id": 14422,
+    "act_id": "1960_11",
+    "title": "",
+    "year": 1960,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "14451": {
+    "neo4j_id": 14451,
+    "act_id": "1961_1",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "14466": {
+    "neo4j_id": 14466,
+    "act_id": "1961_2",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "14473": {
+    "neo4j_id": 14473,
+    "act_id": "1961_3",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "14484": {
+    "neo4j_id": 14484,
+    "act_id": "1961_4",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "14489": {
+    "neo4j_id": 14489,
+    "act_id": "1961_5",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "14516": {
+    "neo4j_id": 14516,
+    "act_id": "1961_6",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 435,
+    "aliases": [
+      ""
+    ]
+  },
+  "14953": {
+    "neo4j_id": 14953,
+    "act_id": "1961_7",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 52,
+    "aliases": [
+      ""
+    ]
+  },
+  "15006": {
+    "neo4j_id": 15006,
+    "act_id": "1961_8",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "15035": {
+    "neo4j_id": 15035,
+    "act_id": "1961_9",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 39,
+    "aliases": [
+      ""
+    ]
+  },
+  "15075": {
+    "neo4j_id": 15075,
+    "act_id": "1961_10",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "15085": {
+    "neo4j_id": 15085,
+    "act_id": "1961_11",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 40,
+    "aliases": [
+      ""
+    ]
+  },
+  "15126": {
+    "neo4j_id": 15126,
+    "act_id": "1961_12",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 40,
+    "aliases": [
+      ""
+    ]
+  },
+  "15167": {
+    "neo4j_id": 15167,
+    "act_id": "1961_13",
+    "title": "",
+    "year": 1961,
+    "act_number": null,
+    "section_count": 61,
+    "aliases": [
+      ""
+    ]
+  },
+  "15229": {
+    "neo4j_id": 15229,
+    "act_id": "1962_1",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "15251": {
+    "neo4j_id": 15251,
+    "act_id": "1962_2",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "15283": {
+    "neo4j_id": 15283,
+    "act_id": "1962_3",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 18,
+    "aliases": [
+      ""
+    ]
+  },
+  "15302": {
+    "neo4j_id": 15302,
+    "act_id": "1962_4",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "15307": {
+    "neo4j_id": 15307,
+    "act_id": "1962_5",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "15332": {
+    "neo4j_id": 15332,
+    "act_id": "1962_6",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "15356": {
+    "neo4j_id": 15356,
+    "act_id": "1962_7",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 38,
+    "aliases": [
+      ""
+    ]
+  },
+  "15395": {
+    "neo4j_id": 15395,
+    "act_id": "1962_8",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "15406": {
+    "neo4j_id": 15406,
+    "act_id": "1962_9",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 215,
+    "aliases": [
+      ""
+    ]
+  },
+  "15622": {
+    "neo4j_id": 15622,
+    "act_id": "1962_10",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "15627": {
+    "neo4j_id": 15627,
+    "act_id": "1962_11",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "15663": {
+    "neo4j_id": 15663,
+    "act_id": "1962_12",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "15709": {
+    "neo4j_id": 15709,
+    "act_id": "1962_13",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "15743": {
+    "neo4j_id": 15743,
+    "act_id": "1962_14",
+    "title": "",
+    "year": 1962,
+    "act_number": null,
+    "section_count": 20,
+    "aliases": [
+      ""
+    ]
+  },
+  "15764": {
+    "neo4j_id": 15764,
+    "act_id": "1963_1",
+    "title": "",
+    "year": 1963,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "15773": {
+    "neo4j_id": 15773,
+    "act_id": "1963_2",
+    "title": "",
+    "year": 1963,
+    "act_number": null,
+    "section_count": 134,
+    "aliases": [
+      ""
+    ]
+  },
+  "15908": {
+    "neo4j_id": 15908,
+    "act_id": "1963_3",
+    "title": "",
+    "year": 1963,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "15918": {
+    "neo4j_id": 15918,
+    "act_id": "1963_4",
+    "title": "",
+    "year": 1963,
+    "act_number": null,
+    "section_count": 63,
+    "aliases": [
+      ""
+    ]
+  },
+  "15982": {
+    "neo4j_id": 15982,
+    "act_id": "1963_5",
+    "title": "",
+    "year": 1963,
+    "act_number": null,
+    "section_count": 60,
+    "aliases": [
+      ""
+    ]
+  },
+  "16043": {
+    "neo4j_id": 16043,
+    "act_id": "1963_6",
+    "title": "",
+    "year": 1963,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "16073": {
+    "neo4j_id": 16073,
+    "act_id": "1963_7",
+    "title": "",
+    "year": 1963,
+    "act_number": null,
+    "section_count": 92,
+    "aliases": [
+      ""
+    ]
+  },
+  "16166": {
+    "neo4j_id": 16166,
+    "act_id": "1963_8",
+    "title": "",
+    "year": 1963,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "16211": {
+    "neo4j_id": 16211,
+    "act_id": "1963_9",
+    "title": "",
+    "year": 1963,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "16245": {
+    "neo4j_id": 16245,
+    "act_id": "1964_1",
+    "title": "",
+    "year": 1964,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "16249": {
+    "neo4j_id": 16249,
+    "act_id": "1964_2",
+    "title": "",
+    "year": 1964,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "16294": {
+    "neo4j_id": 16294,
+    "act_id": "1964_3",
+    "title": "",
+    "year": 1964,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "16302": {
+    "neo4j_id": 16302,
+    "act_id": "1964_4",
+    "title": "",
+    "year": 1964,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "16310": {
+    "neo4j_id": 16310,
+    "act_id": "1964_5",
+    "title": "",
+    "year": 1964,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "16340": {
+    "neo4j_id": 16340,
+    "act_id": "1965_1",
+    "title": "",
+    "year": 1965,
+    "act_number": null,
+    "section_count": 34,
+    "aliases": [
+      ""
+    ]
+  },
+  "16375": {
+    "neo4j_id": 16375,
+    "act_id": "1965_2",
+    "title": "",
+    "year": 1965,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "16381": {
+    "neo4j_id": 16381,
+    "act_id": "1965_3",
+    "title": "",
+    "year": 1965,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "16384": {
+    "neo4j_id": 16384,
+    "act_id": "1965_4",
+    "title": "",
+    "year": 1965,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "16390": {
+    "neo4j_id": 16390,
+    "act_id": "1965_5",
+    "title": "",
+    "year": 1965,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "16398": {
+    "neo4j_id": 16398,
+    "act_id": "1965_6",
+    "title": "",
+    "year": 1965,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "16413": {
+    "neo4j_id": 16413,
+    "act_id": "1966_1",
+    "title": "",
+    "year": 1966,
+    "act_number": null,
+    "section_count": 37,
+    "aliases": [
+      ""
+    ]
+  },
+  "16451": {
+    "neo4j_id": 16451,
+    "act_id": "1966_2",
+    "title": "",
+    "year": 1966,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "16481": {
+    "neo4j_id": 16481,
+    "act_id": "1966_3",
+    "title": "",
+    "year": 1966,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "16497": {
+    "neo4j_id": 16497,
+    "act_id": "1966_4",
+    "title": "",
+    "year": 1966,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "16505": {
+    "neo4j_id": 16505,
+    "act_id": "1966_5",
+    "title": "",
+    "year": 1966,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "16530": {
+    "neo4j_id": 16530,
+    "act_id": "1966_6",
+    "title": "",
+    "year": 1966,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "16552": {
+    "neo4j_id": 16552,
+    "act_id": "1966_7",
+    "title": "",
+    "year": 1966,
+    "act_number": null,
+    "section_count": 100,
+    "aliases": [
+      ""
+    ]
+  },
+  "16653": {
+    "neo4j_id": 16653,
+    "act_id": "1966_8",
+    "title": "",
+    "year": 1966,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "16684": {
+    "neo4j_id": 16684,
+    "act_id": "1966_9",
+    "title": "",
+    "year": 1966,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "16728": {
+    "neo4j_id": 16728,
+    "act_id": "1966_10",
+    "title": "",
+    "year": 1966,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "16736": {
+    "neo4j_id": 16736,
+    "act_id": "1967_1",
+    "title": "",
+    "year": 1967,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "16764": {
+    "neo4j_id": 16764,
+    "act_id": "1967_2",
+    "title": "",
+    "year": 1967,
+    "act_number": null,
+    "section_count": 62,
+    "aliases": [
+      ""
+    ]
+  },
+  "16827": {
+    "neo4j_id": 16827,
+    "act_id": "1967_3",
+    "title": "",
+    "year": 1967,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "16831": {
+    "neo4j_id": 16831,
+    "act_id": "1968_1",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "16838": {
+    "neo4j_id": 16838,
+    "act_id": "1968_2",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "16853": {
+    "neo4j_id": 16853,
+    "act_id": "1968_3",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 38,
+    "aliases": [
+      ""
+    ]
+  },
+  "16892": {
+    "neo4j_id": 16892,
+    "act_id": "1968_4",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 36,
+    "aliases": [
+      ""
+    ]
+  },
+  "16929": {
+    "neo4j_id": 16929,
+    "act_id": "1968_5",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "16951": {
+    "neo4j_id": 16951,
+    "act_id": "1968_6",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 142,
+    "aliases": [
+      ""
+    ]
+  },
+  "17094": {
+    "neo4j_id": 17094,
+    "act_id": "1968_7",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "17117": {
+    "neo4j_id": 17117,
+    "act_id": "1968_8",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "17122": {
+    "neo4j_id": 17122,
+    "act_id": "1968_9",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "17130": {
+    "neo4j_id": 17130,
+    "act_id": "1968_10",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 19,
+    "aliases": [
+      ""
+    ]
+  },
+  "17150": {
+    "neo4j_id": 17150,
+    "act_id": "1968_11",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "17176": {
+    "neo4j_id": 17176,
+    "act_id": "1968_12",
+    "title": "",
+    "year": 1968,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "17180": {
+    "neo4j_id": 17180,
+    "act_id": "1969_1",
+    "title": "",
+    "year": 1969,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "17211": {
+    "neo4j_id": 17211,
+    "act_id": "1969_2",
+    "title": "",
+    "year": 1969,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "17216": {
+    "neo4j_id": 17216,
+    "act_id": "1969_3",
+    "title": "",
+    "year": 1969,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "17245": {
+    "neo4j_id": 17245,
+    "act_id": "1969_4",
+    "title": "",
+    "year": 1969,
+    "act_number": null,
+    "section_count": 93,
+    "aliases": [
+      ""
+    ]
+  },
+  "17339": {
+    "neo4j_id": 17339,
+    "act_id": "1969_5",
+    "title": "",
+    "year": 1969,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "17342": {
+    "neo4j_id": 17342,
+    "act_id": "1969_6",
+    "title": "",
+    "year": 1969,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "17352": {
+    "neo4j_id": 17352,
+    "act_id": "1969_7",
+    "title": "",
+    "year": 1969,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "17384": {
+    "neo4j_id": 17384,
+    "act_id": "1969_8",
+    "title": "",
+    "year": 1969,
+    "act_number": null,
+    "section_count": 77,
+    "aliases": [
+      ""
+    ]
+  },
+  "17462": {
+    "neo4j_id": 17462,
+    "act_id": "1970_1",
+    "title": "",
+    "year": 1970,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "17508": {
+    "neo4j_id": 17508,
+    "act_id": "1970_2",
+    "title": "",
+    "year": 1970,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "17536": {
+    "neo4j_id": 17536,
+    "act_id": "1970_3",
+    "title": "",
+    "year": 1970,
+    "act_number": null,
+    "section_count": 54,
+    "aliases": [
+      ""
+    ]
+  },
+  "17591": {
+    "neo4j_id": 17591,
+    "act_id": "1970_4",
+    "title": "",
+    "year": 1970,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "17627": {
+    "neo4j_id": 17627,
+    "act_id": "1970_5",
+    "title": "",
+    "year": 1970,
+    "act_number": null,
+    "section_count": 157,
+    "aliases": [
+      ""
+    ]
+  },
+  "17785": {
+    "neo4j_id": 17785,
+    "act_id": "1970_6",
+    "title": "",
+    "year": 1970,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "17788": {
+    "neo4j_id": 17788,
+    "act_id": "1971_1",
+    "title": "",
+    "year": 1971,
+    "act_number": null,
+    "section_count": 53,
+    "aliases": [
+      ""
+    ]
+  },
+  "17842": {
+    "neo4j_id": 17842,
+    "act_id": "1971_2",
+    "title": "",
+    "year": 1971,
+    "act_number": null,
+    "section_count": 98,
+    "aliases": [
+      ""
+    ]
+  },
+  "17941": {
+    "neo4j_id": 17941,
+    "act_id": "1971_3",
+    "title": "",
+    "year": 1971,
+    "act_number": null,
+    "section_count": 20,
+    "aliases": [
+      ""
+    ]
+  },
+  "17962": {
+    "neo4j_id": 17962,
+    "act_id": "1971_4",
+    "title": "",
+    "year": 1971,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "17971": {
+    "neo4j_id": 17971,
+    "act_id": "1971_5",
+    "title": "",
+    "year": 1971,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "17995": {
+    "neo4j_id": 17995,
+    "act_id": "1971_6",
+    "title": "",
+    "year": 1971,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "18004": {
+    "neo4j_id": 18004,
+    "act_id": "1971_7",
+    "title": "",
+    "year": 1971,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "18046": {
+    "neo4j_id": 18046,
+    "act_id": "1971_8",
+    "title": "",
+    "year": 1971,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "18073": {
+    "neo4j_id": 18073,
+    "act_id": "1971_9",
+    "title": "",
+    "year": 1971,
+    "act_number": null,
+    "section_count": 20,
+    "aliases": [
+      ""
+    ]
+  },
+  "18094": {
+    "neo4j_id": 18094,
+    "act_id": "1971_10",
+    "title": "",
+    "year": 1971,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "18099": {
+    "neo4j_id": 18099,
+    "act_id": "1972_1",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "18145": {
+    "neo4j_id": 18145,
+    "act_id": "1972_2",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "18157": {
+    "neo4j_id": 18157,
+    "act_id": "1972_3",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 51,
+    "aliases": [
+      ""
+    ]
+  },
+  "18209": {
+    "neo4j_id": 18209,
+    "act_id": "1972_4",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 38,
+    "aliases": [
+      ""
+    ]
+  },
+  "18248": {
+    "neo4j_id": 18248,
+    "act_id": "1972_5",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "18293": {
+    "neo4j_id": 18293,
+    "act_id": "1972_6",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "18298": {
+    "neo4j_id": 18298,
+    "act_id": "1972_7",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 363,
+    "aliases": [
+      ""
+    ]
+  },
+  "18662": {
+    "neo4j_id": 18662,
+    "act_id": "1972_8",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "18698": {
+    "neo4j_id": 18698,
+    "act_id": "1972_9",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "18730": {
+    "neo4j_id": 18730,
+    "act_id": "1972_10",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 32,
+    "aliases": [
+      ""
+    ]
+  },
+  "18763": {
+    "neo4j_id": 18763,
+    "act_id": "1972_11",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "18771": {
+    "neo4j_id": 18771,
+    "act_id": "1972_12",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "18783": {
+    "neo4j_id": 18783,
+    "act_id": "1972_13",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "18800": {
+    "neo4j_id": 18800,
+    "act_id": "1972_14",
+    "title": "",
+    "year": 1972,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "18814": {
+    "neo4j_id": 18814,
+    "act_id": "1973_1",
+    "title": "",
+    "year": 1973,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "18818": {
+    "neo4j_id": 18818,
+    "act_id": "1973_2",
+    "title": "",
+    "year": 1973,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "18862": {
+    "neo4j_id": 18862,
+    "act_id": "1973_3",
+    "title": "",
+    "year": 1973,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "18866": {
+    "neo4j_id": 18866,
+    "act_id": "1973_4",
+    "title": "",
+    "year": 1973,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "18896": {
+    "neo4j_id": 18896,
+    "act_id": "1974_1",
+    "title": "",
+    "year": 1974,
+    "act_number": null,
+    "section_count": 32,
+    "aliases": [
+      ""
+    ]
+  },
+  "18929": {
+    "neo4j_id": 18929,
+    "act_id": "1974_2",
+    "title": "",
+    "year": 1974,
+    "act_number": null,
+    "section_count": 42,
+    "aliases": [
+      ""
+    ]
+  },
+  "18972": {
+    "neo4j_id": 18972,
+    "act_id": "1974_3",
+    "title": "",
+    "year": 1974,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "19014": {
+    "neo4j_id": 19014,
+    "act_id": "1974_4",
+    "title": "",
+    "year": 1974,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "19019": {
+    "neo4j_id": 19019,
+    "act_id": "1974_5",
+    "title": "",
+    "year": 1974,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "19047": {
+    "neo4j_id": 19047,
+    "act_id": "1974_6",
+    "title": "",
+    "year": 1974,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "19061": {
+    "neo4j_id": 19061,
+    "act_id": "1974_7",
+    "title": "",
+    "year": 1974,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "19066": {
+    "neo4j_id": 19066,
+    "act_id": "1974_8",
+    "title": "",
+    "year": 1974,
+    "act_number": null,
+    "section_count": 32,
+    "aliases": [
+      ""
+    ]
+  },
+  "19099": {
+    "neo4j_id": 19099,
+    "act_id": "1974_9",
+    "title": "",
+    "year": 1974,
+    "act_number": null,
+    "section_count": 63,
+    "aliases": [
+      ""
+    ]
+  },
+  "19163": {
+    "neo4j_id": 19163,
+    "act_id": "1975_1",
+    "title": "",
+    "year": 1975,
+    "act_number": null,
+    "section_count": 19,
+    "aliases": [
+      ""
+    ]
+  },
+  "19188": {
+    "neo4j_id": 19188,
+    "act_id": "1975_2",
+    "title": "",
+    "year": 1975,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "19218": {
+    "neo4j_id": 19218,
+    "act_id": "1975_3",
+    "title": "",
+    "year": 1975,
+    "act_number": null,
+    "section_count": 74,
+    "aliases": [
+      ""
+    ]
+  },
+  "19293": {
+    "neo4j_id": 19293,
+    "act_id": "1975_4",
+    "title": "",
+    "year": 1975,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "19305": {
+    "neo4j_id": 19305,
+    "act_id": "1975_5",
+    "title": "",
+    "year": 1975,
+    "act_number": null,
+    "section_count": 36,
+    "aliases": [
+      ""
+    ]
+  },
+  "19342": {
+    "neo4j_id": 19342,
+    "act_id": "1976_1",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "19355": {
+    "neo4j_id": 19355,
+    "act_id": "1976_2",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "19383": {
+    "neo4j_id": 19383,
+    "act_id": "1976_3",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "19408": {
+    "neo4j_id": 19408,
+    "act_id": "1976_4",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "19425": {
+    "neo4j_id": 19425,
+    "act_id": "1976_5",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "19428": {
+    "neo4j_id": 19428,
+    "act_id": "1976_6",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "19440": {
+    "neo4j_id": 19440,
+    "act_id": "1976_7",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "19453": {
+    "neo4j_id": 19453,
+    "act_id": "1976_8",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "19481": {
+    "neo4j_id": 19481,
+    "act_id": "1976_9",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "19485": {
+    "neo4j_id": 19485,
+    "act_id": "1976_10",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "19502": {
+    "neo4j_id": 19502,
+    "act_id": "1976_11",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 36,
+    "aliases": [
+      ""
+    ]
+  },
+  "19539": {
+    "neo4j_id": 19539,
+    "act_id": "1976_12",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "19557": {
+    "neo4j_id": 19557,
+    "act_id": "1976_13",
+    "title": "",
+    "year": 1976,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "19561": {
+    "neo4j_id": 19561,
+    "act_id": "1977_1",
+    "title": "",
+    "year": 1977,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "19575": {
+    "neo4j_id": 19575,
+    "act_id": "1977_2",
+    "title": "",
+    "year": 1977,
+    "act_number": null,
+    "section_count": 19,
+    "aliases": [
+      ""
+    ]
+  },
+  "19595": {
+    "neo4j_id": 19595,
+    "act_id": "1977_3",
+    "title": "",
+    "year": 1977,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "19600": {
+    "neo4j_id": 19600,
+    "act_id": "1978_1",
+    "title": "",
+    "year": 1978,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "19628": {
+    "neo4j_id": 19628,
+    "act_id": "1978_2",
+    "title": "",
+    "year": 1978,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "19636": {
+    "neo4j_id": 19636,
+    "act_id": "1978_3",
+    "title": "",
+    "year": 1978,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "19664": {
+    "neo4j_id": 19664,
+    "act_id": "1978_4",
+    "title": "",
+    "year": 1978,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "19698": {
+    "neo4j_id": 19698,
+    "act_id": "1978_5",
+    "title": "",
+    "year": 1978,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "19713": {
+    "neo4j_id": 19713,
+    "act_id": "1978_6",
+    "title": "",
+    "year": 1978,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "19760": {
+    "neo4j_id": 19760,
+    "act_id": "1978_7",
+    "title": "",
+    "year": 1978,
+    "act_number": null,
+    "section_count": 152,
+    "aliases": [
+      ""
+    ]
+  },
+  "19913": {
+    "neo4j_id": 19913,
+    "act_id": "1978_8",
+    "title": "",
+    "year": 1978,
+    "act_number": null,
+    "section_count": 122,
+    "aliases": [
+      ""
+    ]
+  },
+  "20036": {
+    "neo4j_id": 20036,
+    "act_id": "1979_1",
+    "title": "",
+    "year": 1979,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "20058": {
+    "neo4j_id": 20058,
+    "act_id": "1979_2",
+    "title": "",
+    "year": 1979,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "20064": {
+    "neo4j_id": 20064,
+    "act_id": "1979_3",
+    "title": "",
+    "year": 1979,
+    "act_number": null,
+    "section_count": 36,
+    "aliases": [
+      ""
+    ]
+  },
+  "20101": {
+    "neo4j_id": 20101,
+    "act_id": "1979_4",
+    "title": "",
+    "year": 1979,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "20137": {
+    "neo4j_id": 20137,
+    "act_id": "1980_1",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "20155": {
+    "neo4j_id": 20155,
+    "act_id": "1980_2",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "20178": {
+    "neo4j_id": 20178,
+    "act_id": "1980_3",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "20212": {
+    "neo4j_id": 20212,
+    "act_id": "1980_4",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 37,
+    "aliases": [
+      ""
+    ]
+  },
+  "20250": {
+    "neo4j_id": 20250,
+    "act_id": "1980_5",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "20281": {
+    "neo4j_id": 20281,
+    "act_id": "1980_6",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 19,
+    "aliases": [
+      ""
+    ]
+  },
+  "20301": {
+    "neo4j_id": 20301,
+    "act_id": "1980_7",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 32,
+    "aliases": [
+      ""
+    ]
+  },
+  "20334": {
+    "neo4j_id": 20334,
+    "act_id": "1980_8",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "20346": {
+    "neo4j_id": 20346,
+    "act_id": "1980_9",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "20382": {
+    "neo4j_id": 20382,
+    "act_id": "1980_10",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "20414": {
+    "neo4j_id": 20414,
+    "act_id": "1980_11",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "20421": {
+    "neo4j_id": 20421,
+    "act_id": "1980_12",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "20467": {
+    "neo4j_id": 20467,
+    "act_id": "1980_13",
+    "title": "",
+    "year": 1980,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "20501": {
+    "neo4j_id": 20501,
+    "act_id": "1981_1",
+    "title": "",
+    "year": 1981,
+    "act_number": null,
+    "section_count": 32,
+    "aliases": [
+      ""
+    ]
+  },
+  "20534": {
+    "neo4j_id": 20534,
+    "act_id": "1981_2",
+    "title": "",
+    "year": 1981,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "20549": {
+    "neo4j_id": 20549,
+    "act_id": "1981_3",
+    "title": "",
+    "year": 1981,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "20571": {
+    "neo4j_id": 20571,
+    "act_id": "1981_4",
+    "title": "",
+    "year": 1981,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "20613": {
+    "neo4j_id": 20613,
+    "act_id": "1981_5",
+    "title": "",
+    "year": 1981,
+    "act_number": null,
+    "section_count": 55,
+    "aliases": [
+      ""
+    ]
+  },
+  "20669": {
+    "neo4j_id": 20669,
+    "act_id": "1981_6",
+    "title": "",
+    "year": 1981,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "20695": {
+    "neo4j_id": 20695,
+    "act_id": "1981_7",
+    "title": "",
+    "year": 1981,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "20707": {
+    "neo4j_id": 20707,
+    "act_id": "1981_8",
+    "title": "",
+    "year": 1981,
+    "act_number": null,
+    "section_count": 59,
+    "aliases": [
+      ""
+    ]
+  },
+  "20767": {
+    "neo4j_id": 20767,
+    "act_id": "1981_9",
+    "title": "",
+    "year": 1981,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "20794": {
+    "neo4j_id": 20794,
+    "act_id": "1981_10",
+    "title": "",
+    "year": 1981,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "20802": {
+    "neo4j_id": 20802,
+    "act_id": "1982_1",
+    "title": "",
+    "year": 1982,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "20810": {
+    "neo4j_id": 20810,
+    "act_id": "1982_2",
+    "title": "",
+    "year": 1982,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "20820": {
+    "neo4j_id": 20820,
+    "act_id": "1982_3",
+    "title": "",
+    "year": 1982,
+    "act_number": null,
+    "section_count": 90,
+    "aliases": [
+      ""
+    ]
+  },
+  "20911": {
+    "neo4j_id": 20911,
+    "act_id": "1982_4",
+    "title": "",
+    "year": 1982,
+    "act_number": null,
+    "section_count": 20,
+    "aliases": [
+      ""
+    ]
+  },
+  "20932": {
+    "neo4j_id": 20932,
+    "act_id": "1982_5",
+    "title": "",
+    "year": 1982,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "20949": {
+    "neo4j_id": 20949,
+    "act_id": "1982_6",
+    "title": "",
+    "year": 1982,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "20963": {
+    "neo4j_id": 20963,
+    "act_id": "1982_7",
+    "title": "",
+    "year": 1982,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "20979": {
+    "neo4j_id": 20979,
+    "act_id": "1983_1",
+    "title": "",
+    "year": 1983,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "21009": {
+    "neo4j_id": 21009,
+    "act_id": "1983_2",
+    "title": "",
+    "year": 1983,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "21016": {
+    "neo4j_id": 21016,
+    "act_id": "1983_3",
+    "title": "",
+    "year": 1983,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "21062": {
+    "neo4j_id": 21062,
+    "act_id": "1983_4",
+    "title": "",
+    "year": 1983,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "21070": {
+    "neo4j_id": 21070,
+    "act_id": "1983_5",
+    "title": "",
+    "year": 1983,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "21078": {
+    "neo4j_id": 21078,
+    "act_id": "1983_6",
+    "title": "",
+    "year": 1983,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "21086": {
+    "neo4j_id": 21086,
+    "act_id": "1983_7",
+    "title": "",
+    "year": 1983,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "21095": {
+    "neo4j_id": 21095,
+    "act_id": "1984_1",
+    "title": "",
+    "year": 1984,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "21117": {
+    "neo4j_id": 21117,
+    "act_id": "1984_2",
+    "title": "",
+    "year": 1984,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "21141": {
+    "neo4j_id": 21141,
+    "act_id": "1984_3",
+    "title": "",
+    "year": 1984,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "21157": {
+    "neo4j_id": 21157,
+    "act_id": "1984_4",
+    "title": "",
+    "year": 1984,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "21165": {
+    "neo4j_id": 21165,
+    "act_id": "1984_5",
+    "title": "",
+    "year": 1984,
+    "act_number": null,
+    "section_count": 72,
+    "aliases": [
+      ""
+    ]
+  },
+  "21238": {
+    "neo4j_id": 21238,
+    "act_id": "1984_6",
+    "title": "",
+    "year": 1984,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "21272": {
+    "neo4j_id": 21272,
+    "act_id": "1984_7",
+    "title": "",
+    "year": 1984,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "21306": {
+    "neo4j_id": 21306,
+    "act_id": "1985_1",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "21314": {
+    "neo4j_id": 21314,
+    "act_id": "1985_2",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 38,
+    "aliases": [
+      ""
+    ]
+  },
+  "21353": {
+    "neo4j_id": 21353,
+    "act_id": "1985_3",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "21395": {
+    "neo4j_id": 21395,
+    "act_id": "1985_4",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "21419": {
+    "neo4j_id": 21419,
+    "act_id": "1985_5",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 102,
+    "aliases": [
+      ""
+    ]
+  },
+  "21522": {
+    "neo4j_id": 21522,
+    "act_id": "1985_6",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "21567": {
+    "neo4j_id": 21567,
+    "act_id": "1985_7",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "21580": {
+    "neo4j_id": 21580,
+    "act_id": "1985_8",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "21585": {
+    "neo4j_id": 21585,
+    "act_id": "1985_9",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "21619": {
+    "neo4j_id": 21619,
+    "act_id": "1985_10",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 40,
+    "aliases": [
+      ""
+    ]
+  },
+  "21660": {
+    "neo4j_id": 21660,
+    "act_id": "1985_11",
+    "title": "",
+    "year": 1985,
+    "act_number": null,
+    "section_count": 19,
+    "aliases": [
+      ""
+    ]
+  },
+  "21680": {
+    "neo4j_id": 21680,
+    "act_id": "1986_1",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "21688": {
+    "neo4j_id": 21688,
+    "act_id": "1986_2",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "21713": {
+    "neo4j_id": 21713,
+    "act_id": "1986_3",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "21722": {
+    "neo4j_id": 21722,
+    "act_id": "1986_4",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "21769": {
+    "neo4j_id": 21769,
+    "act_id": "1986_5",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "21780": {
+    "neo4j_id": 21780,
+    "act_id": "1986_6",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 140,
+    "aliases": [
+      ""
+    ]
+  },
+  "21921": {
+    "neo4j_id": 21921,
+    "act_id": "1986_7",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "21957": {
+    "neo4j_id": 21957,
+    "act_id": "1986_8",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "21985": {
+    "neo4j_id": 21985,
+    "act_id": "1986_9",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "22019": {
+    "neo4j_id": 22019,
+    "act_id": "1986_10",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "22045": {
+    "neo4j_id": 22045,
+    "act_id": "1986_11",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 47,
+    "aliases": [
+      ""
+    ]
+  },
+  "22093": {
+    "neo4j_id": 22093,
+    "act_id": "1986_12",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "22127": {
+    "neo4j_id": 22127,
+    "act_id": "1986_13",
+    "title": "",
+    "year": 1986,
+    "act_number": null,
+    "section_count": 42,
+    "aliases": [
+      ""
+    ]
+  },
+  "22170": {
+    "neo4j_id": 22170,
+    "act_id": "1987_1",
+    "title": "",
+    "year": 1987,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "22188": {
+    "neo4j_id": 22188,
+    "act_id": "1987_2",
+    "title": "",
+    "year": 1987,
+    "act_number": null,
+    "section_count": 50,
+    "aliases": [
+      ""
+    ]
+  },
+  "22239": {
+    "neo4j_id": 22239,
+    "act_id": "1987_3",
+    "title": "",
+    "year": 1987,
+    "act_number": null,
+    "section_count": 83,
+    "aliases": [
+      ""
+    ]
+  },
+  "22323": {
+    "neo4j_id": 22323,
+    "act_id": "1987_4",
+    "title": "",
+    "year": 1987,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "22349": {
+    "neo4j_id": 22349,
+    "act_id": "1987_5",
+    "title": "",
+    "year": 1987,
+    "act_number": null,
+    "section_count": 70,
+    "aliases": [
+      ""
+    ]
+  },
+  "22420": {
+    "neo4j_id": 22420,
+    "act_id": "1987_6",
+    "title": "",
+    "year": 1987,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "22452": {
+    "neo4j_id": 22452,
+    "act_id": "1987_7",
+    "title": "",
+    "year": 1987,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "22488": {
+    "neo4j_id": 22488,
+    "act_id": "1987_8",
+    "title": "",
+    "year": 1987,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "22519": {
+    "neo4j_id": 22519,
+    "act_id": "1987_9",
+    "title": "",
+    "year": 1987,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "22542": {
+    "neo4j_id": 22542,
+    "act_id": "1988_1",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 236,
+    "aliases": [
+      ""
+    ]
+  },
+  "22779": {
+    "neo4j_id": 22779,
+    "act_id": "1988_2",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "22815": {
+    "neo4j_id": 22815,
+    "act_id": "1988_3",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "22833": {
+    "neo4j_id": 22833,
+    "act_id": "1988_4",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "22840": {
+    "neo4j_id": 22840,
+    "act_id": "1988_5",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "22851": {
+    "neo4j_id": 22851,
+    "act_id": "1988_6",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "22896": {
+    "neo4j_id": 22896,
+    "act_id": "1988_7",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 18,
+    "aliases": [
+      ""
+    ]
+  },
+  "22915": {
+    "neo4j_id": 22915,
+    "act_id": "1988_8",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "22938": {
+    "neo4j_id": 22938,
+    "act_id": "1988_9",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 71,
+    "aliases": [
+      ""
+    ]
+  },
+  "23010": {
+    "neo4j_id": 23010,
+    "act_id": "1988_10",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "23015": {
+    "neo4j_id": 23015,
+    "act_id": "1988_11",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "23049": {
+    "neo4j_id": 23049,
+    "act_id": "1988_12",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "23085": {
+    "neo4j_id": 23085,
+    "act_id": "1988_13",
+    "title": "",
+    "year": 1988,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "23102": {
+    "neo4j_id": 23102,
+    "act_id": "1989_1",
+    "title": "",
+    "year": 1989,
+    "act_number": null,
+    "section_count": 226,
+    "aliases": [
+      ""
+    ]
+  },
+  "23329": {
+    "neo4j_id": 23329,
+    "act_id": "1989_2",
+    "title": "",
+    "year": 1989,
+    "act_number": null,
+    "section_count": 48,
+    "aliases": [
+      ""
+    ]
+  },
+  "23378": {
+    "neo4j_id": 23378,
+    "act_id": "1989_3",
+    "title": "",
+    "year": 1989,
+    "act_number": null,
+    "section_count": 62,
+    "aliases": [
+      ""
+    ]
+  },
+  "23441": {
+    "neo4j_id": 23441,
+    "act_id": "1989_4",
+    "title": "",
+    "year": 1989,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "23465": {
+    "neo4j_id": 23465,
+    "act_id": "1989_5",
+    "title": "",
+    "year": 1989,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "23511": {
+    "neo4j_id": 23511,
+    "act_id": "1990_1",
+    "title": "",
+    "year": 1990,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "23520": {
+    "neo4j_id": 23520,
+    "act_id": "1990_2",
+    "title": "",
+    "year": 1990,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "23538": {
+    "neo4j_id": 23538,
+    "act_id": "1990_3",
+    "title": "",
+    "year": 1990,
+    "act_number": null,
+    "section_count": 36,
+    "aliases": [
+      ""
+    ]
+  },
+  "23575": {
+    "neo4j_id": 23575,
+    "act_id": "1991_1",
+    "title": "",
+    "year": 1991,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "23583": {
+    "neo4j_id": 23583,
+    "act_id": "1991_2",
+    "title": "",
+    "year": 1991,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "23592": {
+    "neo4j_id": 23592,
+    "act_id": "1991_3",
+    "title": "",
+    "year": 1991,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "23618": {
+    "neo4j_id": 23618,
+    "act_id": "1992_1",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 67,
+    "aliases": [
+      ""
+    ]
+  },
+  "23686": {
+    "neo4j_id": 23686,
+    "act_id": "1992_2",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "23692": {
+    "neo4j_id": 23692,
+    "act_id": "1992_3",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "23718": {
+    "neo4j_id": 23718,
+    "act_id": "1992_4",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "23735": {
+    "neo4j_id": 23735,
+    "act_id": "1992_5",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "23752": {
+    "neo4j_id": 23752,
+    "act_id": "1992_6",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "23779": {
+    "neo4j_id": 23779,
+    "act_id": "1992_7",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 157,
+    "aliases": [
+      ""
+    ]
+  },
+  "23937": {
+    "neo4j_id": 23937,
+    "act_id": "1992_8",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "23942": {
+    "neo4j_id": 23942,
+    "act_id": "1992_9",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 61,
+    "aliases": [
+      ""
+    ]
+  },
+  "24004": {
+    "neo4j_id": 24004,
+    "act_id": "1992_10",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "24048": {
+    "neo4j_id": 24048,
+    "act_id": "1992_11",
+    "title": "",
+    "year": 1992,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "24079": {
+    "neo4j_id": 24079,
+    "act_id": "1993_1",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "24104": {
+    "neo4j_id": 24104,
+    "act_id": "1993_2",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "24138": {
+    "neo4j_id": 24138,
+    "act_id": "1993_3",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "24151": {
+    "neo4j_id": 24151,
+    "act_id": "1993_4",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "24158": {
+    "neo4j_id": 24158,
+    "act_id": "1993_5",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "24167": {
+    "neo4j_id": 24167,
+    "act_id": "1993_6",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "24183": {
+    "neo4j_id": 24183,
+    "act_id": "1993_7",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 34,
+    "aliases": [
+      ""
+    ]
+  },
+  "24218": {
+    "neo4j_id": 24218,
+    "act_id": "1993_8",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 34,
+    "aliases": [
+      ""
+    ]
+  },
+  "24253": {
+    "neo4j_id": 24253,
+    "act_id": "1993_9",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 18,
+    "aliases": [
+      ""
+    ]
+  },
+  "24272": {
+    "neo4j_id": 24272,
+    "act_id": "1993_10",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "24285": {
+    "neo4j_id": 24285,
+    "act_id": "1993_11",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "24291": {
+    "neo4j_id": 24291,
+    "act_id": "1993_12",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "24305": {
+    "neo4j_id": 24305,
+    "act_id": "1993_13",
+    "title": "",
+    "year": 1993,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "24350": {
+    "neo4j_id": 24350,
+    "act_id": "1994_1",
+    "title": "",
+    "year": 1994,
+    "act_number": null,
+    "section_count": 63,
+    "aliases": [
+      ""
+    ]
+  },
+  "24414": {
+    "neo4j_id": 24414,
+    "act_id": "1994_2",
+    "title": "",
+    "year": 1994,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "24450": {
+    "neo4j_id": 24450,
+    "act_id": "1994_3",
+    "title": "",
+    "year": 1994,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "24494": {
+    "neo4j_id": 24494,
+    "act_id": "1994_4",
+    "title": "",
+    "year": 1994,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "24528": {
+    "neo4j_id": 24528,
+    "act_id": "1994_5",
+    "title": "",
+    "year": 1994,
+    "act_number": null,
+    "section_count": 108,
+    "aliases": [
+      ""
+    ]
+  },
+  "24637": {
+    "neo4j_id": 24637,
+    "act_id": "1994_6",
+    "title": "",
+    "year": 1994,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "24673": {
+    "neo4j_id": 24673,
+    "act_id": "1994_7",
+    "title": "",
+    "year": 1994,
+    "act_number": null,
+    "section_count": 39,
+    "aliases": [
+      ""
+    ]
+  },
+  "24713": {
+    "neo4j_id": 24713,
+    "act_id": "1994_8",
+    "title": "",
+    "year": 1994,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "24743": {
+    "neo4j_id": 24743,
+    "act_id": "1994_9",
+    "title": "",
+    "year": 1994,
+    "act_number": null,
+    "section_count": 418,
+    "aliases": [
+      ""
+    ]
+  },
+  "25162": {
+    "neo4j_id": 25162,
+    "act_id": "1994_10",
+    "title": "",
+    "year": 1994,
+    "act_number": null,
+    "section_count": 230,
+    "aliases": [
+      ""
+    ]
+  },
+  "25393": {
+    "neo4j_id": 25393,
+    "act_id": "1995_1",
+    "title": "",
+    "year": 1995,
+    "act_number": null,
+    "section_count": 39,
+    "aliases": [
+      ""
+    ]
+  },
+  "25434": {
+    "neo4j_id": 25434,
+    "act_id": "1995_2",
+    "title": "",
+    "year": 1995,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "25458": {
+    "neo4j_id": 25458,
+    "act_id": "1995_3",
+    "title": "",
+    "year": 1995,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "25481": {
+    "neo4j_id": 25481,
+    "act_id": "1995_4",
+    "title": "",
+    "year": 1995,
+    "act_number": null,
+    "section_count": 118,
+    "aliases": [
+      ""
+    ]
+  },
+  "25600": {
+    "neo4j_id": 25600,
+    "act_id": "1996_1",
+    "title": "",
+    "year": 1996,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "25606": {
+    "neo4j_id": 25606,
+    "act_id": "1996_2",
+    "title": "",
+    "year": 1996,
+    "act_number": null,
+    "section_count": 101,
+    "aliases": [
+      ""
+    ]
+  },
+  "25708": {
+    "neo4j_id": 25708,
+    "act_id": "1996_3",
+    "title": "",
+    "year": 1996,
+    "act_number": null,
+    "section_count": 47,
+    "aliases": [
+      ""
+    ]
+  },
+  "25756": {
+    "neo4j_id": 25756,
+    "act_id": "1996_4",
+    "title": "",
+    "year": 1996,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "25772": {
+    "neo4j_id": 25772,
+    "act_id": "1996_5",
+    "title": "",
+    "year": 1996,
+    "act_number": null,
+    "section_count": 64,
+    "aliases": [
+      ""
+    ]
+  },
+  "25837": {
+    "neo4j_id": 25837,
+    "act_id": "1997_1",
+    "title": "",
+    "year": 1997,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "25842": {
+    "neo4j_id": 25842,
+    "act_id": "1997_2",
+    "title": "",
+    "year": 1997,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "25887": {
+    "neo4j_id": 25887,
+    "act_id": "1997_3",
+    "title": "",
+    "year": 1997,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "25903": {
+    "neo4j_id": 25903,
+    "act_id": "1997_4",
+    "title": "",
+    "year": 1997,
+    "act_number": null,
+    "section_count": 54,
+    "aliases": [
+      ""
+    ]
+  },
+  "25958": {
+    "neo4j_id": 25958,
+    "act_id": "1997_5",
+    "title": "",
+    "year": 1997,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "25975": {
+    "neo4j_id": 25975,
+    "act_id": "1997_6",
+    "title": "",
+    "year": 1997,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "25981": {
+    "neo4j_id": 25981,
+    "act_id": "1997_7",
+    "title": "",
+    "year": 1997,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "26025": {
+    "neo4j_id": 26025,
+    "act_id": "1998_1",
+    "title": "",
+    "year": 1998,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "26067": {
+    "neo4j_id": 26067,
+    "act_id": "1998_2",
+    "title": "",
+    "year": 1998,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "26081": {
+    "neo4j_id": 26081,
+    "act_id": "1999_1",
+    "title": "",
+    "year": 1999,
+    "act_number": null,
+    "section_count": 36,
+    "aliases": [
+      ""
+    ]
+  },
+  "26118": {
+    "neo4j_id": 26118,
+    "act_id": "1999_2",
+    "title": "",
+    "year": 1999,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "26160": {
+    "neo4j_id": 26160,
+    "act_id": "1999_3",
+    "title": "",
+    "year": 1999,
+    "act_number": null,
+    "section_count": 55,
+    "aliases": [
+      ""
+    ]
+  },
+  "26216": {
+    "neo4j_id": 26216,
+    "act_id": "1999_4",
+    "title": "",
+    "year": 1999,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "26222": {
+    "neo4j_id": 26222,
+    "act_id": "1999_5",
+    "title": "",
+    "year": 1999,
+    "act_number": null,
+    "section_count": 86,
+    "aliases": [
+      ""
+    ]
+  },
+  "26309": {
+    "neo4j_id": 26309,
+    "act_id": "1999_6",
+    "title": "",
+    "year": 1999,
+    "act_number": null,
+    "section_count": 160,
+    "aliases": [
+      ""
+    ]
+  },
+  "26470": {
+    "neo4j_id": 26470,
+    "act_id": "1999_7",
+    "title": "",
+    "year": 1999,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "26481": {
+    "neo4j_id": 26481,
+    "act_id": "1999_8",
+    "title": "",
+    "year": 1999,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "26486": {
+    "neo4j_id": 26486,
+    "act_id": "2000_1",
+    "title": "",
+    "year": 2000,
+    "act_number": null,
+    "section_count": 107,
+    "aliases": [
+      ""
+    ]
+  },
+  "26594": {
+    "neo4j_id": 26594,
+    "act_id": "2000_2",
+    "title": "",
+    "year": 2000,
+    "act_number": null,
+    "section_count": 86,
+    "aliases": [
+      ""
+    ]
+  },
+  "26681": {
+    "neo4j_id": 26681,
+    "act_id": "2000_3",
+    "title": "",
+    "year": 2000,
+    "act_number": null,
+    "section_count": 92,
+    "aliases": [
+      ""
+    ]
+  },
+  "26774": {
+    "neo4j_id": 26774,
+    "act_id": "2000_4",
+    "title": "",
+    "year": 2000,
+    "act_number": null,
+    "section_count": 47,
+    "aliases": [
+      ""
+    ]
+  },
+  "26822": {
+    "neo4j_id": 26822,
+    "act_id": "2000_5",
+    "title": "",
+    "year": 2000,
+    "act_number": null,
+    "section_count": 94,
+    "aliases": [
+      ""
+    ]
+  },
+  "26917": {
+    "neo4j_id": 26917,
+    "act_id": "2000_6",
+    "title": "",
+    "year": 2000,
+    "act_number": null,
+    "section_count": 86,
+    "aliases": [
+      ""
+    ]
+  },
+  "27004": {
+    "neo4j_id": 27004,
+    "act_id": "2000_7",
+    "title": "",
+    "year": 2000,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "27020": {
+    "neo4j_id": 27020,
+    "act_id": "2000_8",
+    "title": "",
+    "year": 2000,
+    "act_number": null,
+    "section_count": 48,
+    "aliases": [
+      ""
+    ]
+  },
+  "27069": {
+    "neo4j_id": 27069,
+    "act_id": "2000_9",
+    "title": "",
+    "year": 2000,
+    "act_number": null,
+    "section_count": 95,
+    "aliases": [
+      ""
+    ]
+  },
+  "27166": {
+    "neo4j_id": 27166,
+    "act_id": "2000_10",
+    "title": "",
+    "year": 2000,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "27171": {
+    "neo4j_id": 27171,
+    "act_id": "2001_1",
+    "title": "",
+    "year": 2001,
+    "act_number": null,
+    "section_count": 94,
+    "aliases": [
+      ""
+    ]
+  },
+  "27266": {
+    "neo4j_id": 27266,
+    "act_id": "2001_2",
+    "title": "",
+    "year": 2001,
+    "act_number": null,
+    "section_count": 54,
+    "aliases": [
+      ""
+    ]
+  },
+  "27321": {
+    "neo4j_id": 27321,
+    "act_id": "2001_3",
+    "title": "",
+    "year": 2001,
+    "act_number": null,
+    "section_count": 29,
+    "aliases": [
+      ""
+    ]
+  },
+  "27351": {
+    "neo4j_id": 27351,
+    "act_id": "2001_4",
+    "title": "",
+    "year": 2001,
+    "act_number": null,
+    "section_count": 38,
+    "aliases": [
+      ""
+    ]
+  },
+  "27390": {
+    "neo4j_id": 27390,
+    "act_id": "2002_1",
+    "title": "",
+    "year": 2002,
+    "act_number": null,
+    "section_count": 51,
+    "aliases": [
+      ""
+    ]
+  },
+  "27442": {
+    "neo4j_id": 27442,
+    "act_id": "2002_2",
+    "title": "",
+    "year": 2002,
+    "act_number": null,
+    "section_count": 102,
+    "aliases": [
+      ""
+    ]
+  },
+  "27545": {
+    "neo4j_id": 27545,
+    "act_id": "2002_3",
+    "title": "",
+    "year": 2002,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "27549": {
+    "neo4j_id": 27549,
+    "act_id": "2002_4",
+    "title": "",
+    "year": 2002,
+    "act_number": null,
+    "section_count": 55,
+    "aliases": [
+      ""
+    ]
+  },
+  "27605": {
+    "neo4j_id": 27605,
+    "act_id": "2002_5",
+    "title": "",
+    "year": 2002,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "27620": {
+    "neo4j_id": 27620,
+    "act_id": "2002_6",
+    "title": "",
+    "year": 2002,
+    "act_number": null,
+    "section_count": 140,
+    "aliases": [
+      ""
+    ]
+  },
+  "27761": {
+    "neo4j_id": 27761,
+    "act_id": "2002_7",
+    "title": "",
+    "year": 2002,
+    "act_number": null,
+    "section_count": 24,
+    "aliases": [
+      ""
+    ]
+  },
+  "27786": {
+    "neo4j_id": 27786,
+    "act_id": "2002_8",
+    "title": "",
+    "year": 2002,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "27800": {
+    "neo4j_id": 27800,
+    "act_id": "2003_1",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "27834": {
+    "neo4j_id": 27834,
+    "act_id": "2003_2",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "27866": {
+    "neo4j_id": 27866,
+    "act_id": "2003_3",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 40,
+    "aliases": [
+      ""
+    ]
+  },
+  "27907": {
+    "neo4j_id": 27907,
+    "act_id": "2003_4",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 183,
+    "aliases": [
+      ""
+    ]
+  },
+  "28091": {
+    "neo4j_id": 28091,
+    "act_id": "2003_5",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "28105": {
+    "neo4j_id": 28105,
+    "act_id": "2003_6",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "28121": {
+    "neo4j_id": 28121,
+    "act_id": "2003_7",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 68,
+    "aliases": [
+      ""
+    ]
+  },
+  "28190": {
+    "neo4j_id": 28190,
+    "act_id": "2003_8",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "28207": {
+    "neo4j_id": 28207,
+    "act_id": "2003_9",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 65,
+    "aliases": [
+      ""
+    ]
+  },
+  "28273": {
+    "neo4j_id": 28273,
+    "act_id": "2003_10",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 78,
+    "aliases": [
+      ""
+    ]
+  },
+  "28352": {
+    "neo4j_id": 28352,
+    "act_id": "2003_11",
+    "title": "",
+    "year": 2003,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "28394": {
+    "neo4j_id": 28394,
+    "act_id": "2004_1",
+    "title": "",
+    "year": 2004,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "28398": {
+    "neo4j_id": 28398,
+    "act_id": "2004_2",
+    "title": "",
+    "year": 2004,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "28404": {
+    "neo4j_id": 28404,
+    "act_id": "2005_1",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 37,
+    "aliases": [
+      ""
+    ]
+  },
+  "28442": {
+    "neo4j_id": 28442,
+    "act_id": "2005_2",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "28478": {
+    "neo4j_id": 28478,
+    "act_id": "2005_3",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "28509": {
+    "neo4j_id": 28509,
+    "act_id": "2005_4",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "28535": {
+    "neo4j_id": 28535,
+    "act_id": "2005_5",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 58,
+    "aliases": [
+      ""
+    ]
+  },
+  "28594": {
+    "neo4j_id": 28594,
+    "act_id": "2005_6",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "28641": {
+    "neo4j_id": 28641,
+    "act_id": "2005_7",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "28670": {
+    "neo4j_id": 28670,
+    "act_id": "2005_8",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "28682": {
+    "neo4j_id": 28682,
+    "act_id": "2005_9",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "28714": {
+    "neo4j_id": 28714,
+    "act_id": "2005_10",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 48,
+    "aliases": [
+      ""
+    ]
+  },
+  "28763": {
+    "neo4j_id": 28763,
+    "act_id": "2005_11",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 32,
+    "aliases": [
+      ""
+    ]
+  },
+  "28796": {
+    "neo4j_id": 28796,
+    "act_id": "2005_12",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "28824": {
+    "neo4j_id": 28824,
+    "act_id": "2005_13",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 82,
+    "aliases": [
+      ""
+    ]
+  },
+  "28909": {
+    "neo4j_id": 28909,
+    "act_id": "2005_14",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "28953": {
+    "neo4j_id": 28953,
+    "act_id": "2005_15",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "28956": {
+    "neo4j_id": 28956,
+    "act_id": "2005_16",
+    "title": "",
+    "year": 2005,
+    "act_number": null,
+    "section_count": 99,
+    "aliases": [
+      ""
+    ]
+  },
+  "29056": {
+    "neo4j_id": 29056,
+    "act_id": "2006_1",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "29062": {
+    "neo4j_id": 29062,
+    "act_id": "2006_2",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 359,
+    "aliases": [
+      ""
+    ]
+  },
+  "29422": {
+    "neo4j_id": 29422,
+    "act_id": "2006_3",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 101,
+    "aliases": [
+      ""
+    ]
+  },
+  "29524": {
+    "neo4j_id": 29524,
+    "act_id": "2006_4",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 59,
+    "aliases": [
+      ""
+    ]
+  },
+  "29601": {
+    "neo4j_id": 29601,
+    "act_id": "2006_5",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "29612": {
+    "neo4j_id": 29612,
+    "act_id": "2006_6",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 20,
+    "aliases": [
+      ""
+    ]
+  },
+  "29633": {
+    "neo4j_id": 29633,
+    "act_id": "2006_7",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "29669": {
+    "neo4j_id": 29669,
+    "act_id": "2006_8",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 168,
+    "aliases": [
+      ""
+    ]
+  },
+  "29838": {
+    "neo4j_id": 29838,
+    "act_id": "2006_9",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "29847": {
+    "neo4j_id": 29847,
+    "act_id": "2006_10",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "29879": {
+    "neo4j_id": 29879,
+    "act_id": "2006_11",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 63,
+    "aliases": [
+      ""
+    ]
+  },
+  "29943": {
+    "neo4j_id": 29943,
+    "act_id": "2006_12",
+    "title": "",
+    "year": 2006,
+    "act_number": null,
+    "section_count": 37,
+    "aliases": [
+      ""
+    ]
+  },
+  "29981": {
+    "neo4j_id": 29981,
+    "act_id": "2007_1",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "29988": {
+    "neo4j_id": 29988,
+    "act_id": "2007_2",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 53,
+    "aliases": [
+      ""
+    ]
+  },
+  "30042": {
+    "neo4j_id": 30042,
+    "act_id": "2007_3",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 40,
+    "aliases": [
+      ""
+    ]
+  },
+  "30083": {
+    "neo4j_id": 30083,
+    "act_id": "2007_4",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "30091": {
+    "neo4j_id": 30091,
+    "act_id": "2007_5",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 32,
+    "aliases": [
+      ""
+    ]
+  },
+  "30124": {
+    "neo4j_id": 30124,
+    "act_id": "2007_6",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 9,
+    "aliases": [
+      ""
+    ]
+  },
+  "30134": {
+    "neo4j_id": 30134,
+    "act_id": "2007_7",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "30149": {
+    "neo4j_id": 30149,
+    "act_id": "2007_8",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "30213": {
+    "neo4j_id": 30213,
+    "act_id": "2007_9",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "30257": {
+    "neo4j_id": 30257,
+    "act_id": "2007_10",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 49,
+    "aliases": [
+      ""
+    ]
+  },
+  "30307": {
+    "neo4j_id": 30307,
+    "act_id": "2007_11",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 39,
+    "aliases": [
+      ""
+    ]
+  },
+  "30347": {
+    "neo4j_id": 30347,
+    "act_id": "2007_12",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "30370": {
+    "neo4j_id": 30370,
+    "act_id": "2007_13",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "30392": {
+    "neo4j_id": 30392,
+    "act_id": "2007_14",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 37,
+    "aliases": [
+      ""
+    ]
+  },
+  "30430": {
+    "neo4j_id": 30430,
+    "act_id": "2007_15",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 155,
+    "aliases": [
+      ""
+    ]
+  },
+  "30605": {
+    "neo4j_id": 30605,
+    "act_id": "2007_16",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 48,
+    "aliases": [
+      ""
+    ]
+  },
+  "30656": {
+    "neo4j_id": 30656,
+    "act_id": "2007_17",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "30722": {
+    "neo4j_id": 30722,
+    "act_id": "2007_18",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "30726": {
+    "neo4j_id": 30726,
+    "act_id": "2007_19",
+    "title": "",
+    "year": 2007,
+    "act_number": null,
+    "section_count": 50,
+    "aliases": [
+      ""
+    ]
+  },
+  "30801": {
+    "neo4j_id": 30801,
+    "act_id": "2008_1",
+    "title": "",
+    "year": 2008,
+    "act_number": null,
+    "section_count": 32,
+    "aliases": [
+      ""
+    ]
+  },
+  "30834": {
+    "neo4j_id": 30834,
+    "act_id": "2008_2",
+    "title": "",
+    "year": 2008,
+    "act_number": null,
+    "section_count": 50,
+    "aliases": [
+      ""
+    ]
+  },
+  "30907": {
+    "neo4j_id": 30907,
+    "act_id": "2008_3",
+    "title": "",
+    "year": 2008,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "30925": {
+    "neo4j_id": 30925,
+    "act_id": "2008_4",
+    "title": "",
+    "year": 2008,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "30952": {
+    "neo4j_id": 30952,
+    "act_id": "2008_5",
+    "title": "",
+    "year": 2008,
+    "act_number": null,
+    "section_count": 50,
+    "aliases": [
+      ""
+    ]
+  },
+  "31003": {
+    "neo4j_id": 31003,
+    "act_id": "2009_1",
+    "title": "",
+    "year": 2009,
+    "act_number": null,
+    "section_count": 38,
+    "aliases": [
+      ""
+    ]
+  },
+  "31042": {
+    "neo4j_id": 31042,
+    "act_id": "2009_2",
+    "title": "",
+    "year": 2009,
+    "act_number": null,
+    "section_count": 48,
+    "aliases": [
+      ""
+    ]
+  },
+  "31091": {
+    "neo4j_id": 31091,
+    "act_id": "2009_3",
+    "title": "",
+    "year": 2009,
+    "act_number": null,
+    "section_count": 32,
+    "aliases": [
+      ""
+    ]
+  },
+  "31124": {
+    "neo4j_id": 31124,
+    "act_id": "2009_4",
+    "title": "",
+    "year": 2009,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "31151": {
+    "neo4j_id": 31151,
+    "act_id": "2009_5",
+    "title": "",
+    "year": 2009,
+    "act_number": null,
+    "section_count": 40,
+    "aliases": [
+      ""
+    ]
+  },
+  "31192": {
+    "neo4j_id": 31192,
+    "act_id": "2009_6",
+    "title": "",
+    "year": 2009,
+    "act_number": null,
+    "section_count": 26,
+    "aliases": [
+      ""
+    ]
+  },
+  "31219": {
+    "neo4j_id": 31219,
+    "act_id": "2009_7",
+    "title": "",
+    "year": 2009,
+    "act_number": null,
+    "section_count": 79,
+    "aliases": [
+      ""
+    ]
+  },
+  "31318": {
+    "neo4j_id": 31318,
+    "act_id": "2009_8",
+    "title": "",
+    "year": 2009,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "31364": {
+    "neo4j_id": 31364,
+    "act_id": "2010_1",
+    "title": "",
+    "year": 2010,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "31369": {
+    "neo4j_id": 31369,
+    "act_id": "2010_2",
+    "title": "",
+    "year": 2010,
+    "act_number": null,
+    "section_count": 37,
+    "aliases": [
+      ""
+    ]
+  },
+  "31407": {
+    "neo4j_id": 31407,
+    "act_id": "2010_3",
+    "title": "",
+    "year": 2010,
+    "act_number": null,
+    "section_count": 57,
+    "aliases": [
+      ""
+    ]
+  },
+  "31465": {
+    "neo4j_id": 31465,
+    "act_id": "2010_4",
+    "title": "",
+    "year": 2010,
+    "act_number": null,
+    "section_count": 52,
+    "aliases": [
+      ""
+    ]
+  },
+  "31520": {
+    "neo4j_id": 31520,
+    "act_id": "2010_5",
+    "title": "",
+    "year": 2010,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "31565": {
+    "neo4j_id": 31565,
+    "act_id": "2010_6",
+    "title": "",
+    "year": 2010,
+    "act_number": null,
+    "section_count": 49,
+    "aliases": [
+      ""
+    ]
+  },
+  "31615": {
+    "neo4j_id": 31615,
+    "act_id": "2010_7",
+    "title": "",
+    "year": 2010,
+    "act_number": null,
+    "section_count": 56,
+    "aliases": [
+      ""
+    ]
+  },
+  "31672": {
+    "neo4j_id": 31672,
+    "act_id": "2010_8",
+    "title": "",
+    "year": 2010,
+    "act_number": null,
+    "section_count": 39,
+    "aliases": [
+      ""
+    ]
+  },
+  "31724": {
+    "neo4j_id": 31724,
+    "act_id": "2011_1",
+    "title": "",
+    "year": 2011,
+    "act_number": null,
+    "section_count": 7,
+    "aliases": [
+      ""
+    ]
+  },
+  "31732": {
+    "neo4j_id": 31732,
+    "act_id": "2011_2",
+    "title": "",
+    "year": 2011,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "31743": {
+    "neo4j_id": 31743,
+    "act_id": "2011_3",
+    "title": "",
+    "year": 2011,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "31772": {
+    "neo4j_id": 31772,
+    "act_id": "2012_1",
+    "title": "",
+    "year": 2012,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "31817": {
+    "neo4j_id": 31817,
+    "act_id": "2012_2",
+    "title": "",
+    "year": 2012,
+    "act_number": null,
+    "section_count": 38,
+    "aliases": [
+      ""
+    ]
+  },
+  "31856": {
+    "neo4j_id": 31856,
+    "act_id": "2012_3",
+    "title": "",
+    "year": 2012,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "31903": {
+    "neo4j_id": 31903,
+    "act_id": "2012_4",
+    "title": "",
+    "year": 2012,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "31943": {
+    "neo4j_id": 31943,
+    "act_id": "2012_5",
+    "title": "",
+    "year": 2012,
+    "act_number": null,
+    "section_count": 34,
+    "aliases": [
+      ""
+    ]
+  },
+  "31978": {
+    "neo4j_id": 31978,
+    "act_id": "2013_1",
+    "title": "",
+    "year": 2013,
+    "act_number": null,
+    "section_count": 39,
+    "aliases": [
+      ""
+    ]
+  },
+  "32018": {
+    "neo4j_id": 32018,
+    "act_id": "2013_2",
+    "title": "",
+    "year": 2013,
+    "act_number": null,
+    "section_count": 30,
+    "aliases": [
+      ""
+    ]
+  },
+  "32049": {
+    "neo4j_id": 32049,
+    "act_id": "2013_3",
+    "title": "",
+    "year": 2013,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "32118": {
+    "neo4j_id": 32118,
+    "act_id": "2013_4",
+    "title": "",
+    "year": 2013,
+    "act_number": null,
+    "section_count": 116,
+    "aliases": [
+      ""
+    ]
+  },
+  "32235": {
+    "neo4j_id": 32235,
+    "act_id": "2013_5",
+    "title": "",
+    "year": 2013,
+    "act_number": null,
+    "section_count": 462,
+    "aliases": [
+      ""
+    ]
+  },
+  "32698": {
+    "neo4j_id": 32698,
+    "act_id": "2013_6",
+    "title": "",
+    "year": 2013,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "32745": {
+    "neo4j_id": 32745,
+    "act_id": "2013_7",
+    "title": "",
+    "year": 2013,
+    "act_number": null,
+    "section_count": 49,
+    "aliases": [
+      ""
+    ]
+  },
+  "32795": {
+    "neo4j_id": 32795,
+    "act_id": "2014_1",
+    "title": "",
+    "year": 2014,
+    "act_number": null,
+    "section_count": 40,
+    "aliases": [
+      ""
+    ]
+  },
+  "32836": {
+    "neo4j_id": 32836,
+    "act_id": "2014_2",
+    "title": "",
+    "year": 2014,
+    "act_number": null,
+    "section_count": 42,
+    "aliases": [
+      ""
+    ]
+  },
+  "32879": {
+    "neo4j_id": 32879,
+    "act_id": "2014_3",
+    "title": "",
+    "year": 2014,
+    "act_number": null,
+    "section_count": 175,
+    "aliases": [
+      ""
+    ]
+  },
+  "33055": {
+    "neo4j_id": 33055,
+    "act_id": "2014_4",
+    "title": "",
+    "year": 2014,
+    "act_number": null,
+    "section_count": 49,
+    "aliases": [
+      ""
+    ]
+  },
+  "33105": {
+    "neo4j_id": 33105,
+    "act_id": "2014_5",
+    "title": "",
+    "year": 2014,
+    "act_number": null,
+    "section_count": 63,
+    "aliases": [
+      ""
+    ]
+  },
+  "33187": {
+    "neo4j_id": 33187,
+    "act_id": "2014_6",
+    "title": "",
+    "year": 2014,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "33198": {
+    "neo4j_id": 33198,
+    "act_id": "2014_7",
+    "title": "",
+    "year": 2014,
+    "act_number": null,
+    "section_count": 39,
+    "aliases": [
+      ""
+    ]
+  },
+  "33238": {
+    "neo4j_id": 33238,
+    "act_id": "2015_1",
+    "title": "",
+    "year": 2015,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "33242": {
+    "neo4j_id": 33242,
+    "act_id": "2015_2",
+    "title": "",
+    "year": 2015,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "33276": {
+    "neo4j_id": 33276,
+    "act_id": "2015_3",
+    "title": "",
+    "year": 2015,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "33280": {
+    "neo4j_id": 33280,
+    "act_id": "2015_4",
+    "title": "",
+    "year": 2015,
+    "act_number": null,
+    "section_count": 88,
+    "aliases": [
+      ""
+    ]
+  },
+  "33369": {
+    "neo4j_id": 33369,
+    "act_id": "2016_1",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 33,
+    "aliases": [
+      ""
+    ]
+  },
+  "33403": {
+    "neo4j_id": 33403,
+    "act_id": "2016_2",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 102,
+    "aliases": [
+      ""
+    ]
+  },
+  "33506": {
+    "neo4j_id": 33506,
+    "act_id": "2016_3",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "33510": {
+    "neo4j_id": 33510,
+    "act_id": "2016_4",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "33554": {
+    "neo4j_id": 33554,
+    "act_id": "2016_5",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "33576": {
+    "neo4j_id": 33576,
+    "act_id": "2016_6",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "33623": {
+    "neo4j_id": 33623,
+    "act_id": "2016_7",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 17,
+    "aliases": [
+      ""
+    ]
+  },
+  "33641": {
+    "neo4j_id": 33641,
+    "act_id": "2016_8",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 25,
+    "aliases": [
+      ""
+    ]
+  },
+  "33667": {
+    "neo4j_id": 33667,
+    "act_id": "2016_9",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 111,
+    "aliases": [
+      ""
+    ]
+  },
+  "33779": {
+    "neo4j_id": 33779,
+    "act_id": "2016_10",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 272,
+    "aliases": [
+      ""
+    ]
+  },
+  "34052": {
+    "neo4j_id": 34052,
+    "act_id": "2016_11",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 92,
+    "aliases": [
+      ""
+    ]
+  },
+  "34145": {
+    "neo4j_id": 34145,
+    "act_id": "2016_12",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "34192": {
+    "neo4j_id": 34192,
+    "act_id": "2016_13",
+    "title": "",
+    "year": 2016,
+    "act_number": null,
+    "section_count": 62,
+    "aliases": [
+      ""
+    ]
+  },
+  "34255": {
+    "neo4j_id": 34255,
+    "act_id": "2017_1",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 38,
+    "aliases": [
+      ""
+    ]
+  },
+  "34294": {
+    "neo4j_id": 34294,
+    "act_id": "2017_2",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "34308": {
+    "neo4j_id": 34308,
+    "act_id": "2017_3",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "34312": {
+    "neo4j_id": 34312,
+    "act_id": "2017_4",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 50,
+    "aliases": [
+      ""
+    ]
+  },
+  "34363": {
+    "neo4j_id": 34363,
+    "act_id": "2017_5",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 18,
+    "aliases": [
+      ""
+    ]
+  },
+  "34382": {
+    "neo4j_id": 34382,
+    "act_id": "2017_6",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 125,
+    "aliases": [
+      ""
+    ]
+  },
+  "34508": {
+    "neo4j_id": 34508,
+    "act_id": "2017_7",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 177,
+    "aliases": [
+      ""
+    ]
+  },
+  "34686": {
+    "neo4j_id": 34686,
+    "act_id": "2017_8",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "34690": {
+    "neo4j_id": 34690,
+    "act_id": "2017_9",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "34718": {
+    "neo4j_id": 34718,
+    "act_id": "2017_10",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 48,
+    "aliases": [
+      ""
+    ]
+  },
+  "34767": {
+    "neo4j_id": 34767,
+    "act_id": "2017_11",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 28,
+    "aliases": [
+      ""
+    ]
+  },
+  "34796": {
+    "neo4j_id": 34796,
+    "act_id": "2017_12",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 14,
+    "aliases": [
+      ""
+    ]
+  },
+  "34811": {
+    "neo4j_id": 34811,
+    "act_id": "2017_13",
+    "title": "",
+    "year": 2017,
+    "act_number": null,
+    "section_count": 39,
+    "aliases": [
+      ""
+    ]
+  },
+  "34851": {
+    "neo4j_id": 34851,
+    "act_id": "2018_1",
+    "title": "",
+    "year": 2018,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "34897": {
+    "neo4j_id": 34897,
+    "act_id": "2018_2",
+    "title": "",
+    "year": 2018,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "34942": {
+    "neo4j_id": 34942,
+    "act_id": "2018_3",
+    "title": "",
+    "year": 2018,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "34946": {
+    "neo4j_id": 34946,
+    "act_id": "2018_4",
+    "title": "",
+    "year": 2018,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "34950": {
+    "neo4j_id": 34950,
+    "act_id": "2018_5",
+    "title": "",
+    "year": 2018,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "34953": {
+    "neo4j_id": 34953,
+    "act_id": "2019_1",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "34976": {
+    "neo4j_id": 34976,
+    "act_id": "2019_2",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 34,
+    "aliases": [
+      ""
+    ]
+  },
+  "35011": {
+    "neo4j_id": 35011,
+    "act_id": "2019_3",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 68,
+    "aliases": [
+      ""
+    ]
+  },
+  "35080": {
+    "neo4j_id": 35080,
+    "act_id": "2019_4",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 18,
+    "aliases": [
+      ""
+    ]
+  },
+  "35099": {
+    "neo4j_id": 35099,
+    "act_id": "2019_5",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 104,
+    "aliases": [
+      ""
+    ]
+  },
+  "35204": {
+    "neo4j_id": 35204,
+    "act_id": "2019_6",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 107,
+    "aliases": [
+      ""
+    ]
+  },
+  "35312": {
+    "neo4j_id": 35312,
+    "act_id": "2019_7",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 61,
+    "aliases": [
+      ""
+    ]
+  },
+  "35374": {
+    "neo4j_id": 35374,
+    "act_id": "2019_8",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "35381": {
+    "neo4j_id": 35381,
+    "act_id": "2019_9",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 8,
+    "aliases": [
+      ""
+    ]
+  },
+  "35390": {
+    "neo4j_id": 35390,
+    "act_id": "2019_10",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "35394": {
+    "neo4j_id": 35394,
+    "act_id": "2019_11",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 23,
+    "aliases": [
+      ""
+    ]
+  },
+  "35418": {
+    "neo4j_id": 35418,
+    "act_id": "2019_12",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "35463": {
+    "neo4j_id": 35463,
+    "act_id": "2019_13",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "35510": {
+    "neo4j_id": 35510,
+    "act_id": "2019_14",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "35546": {
+    "neo4j_id": 35546,
+    "act_id": "2019_15",
+    "title": "",
+    "year": 2019,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "35550": {
+    "neo4j_id": 35550,
+    "act_id": "2020_1",
+    "title": "",
+    "year": 2020,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "35563": {
+    "neo4j_id": 35563,
+    "act_id": "2020_2",
+    "title": "",
+    "year": 2020,
+    "act_number": null,
+    "section_count": 4,
+    "aliases": [
+      ""
+    ]
+  },
+  "35568": {
+    "neo4j_id": 35568,
+    "act_id": "2020_3",
+    "title": "",
+    "year": 2020,
+    "act_number": null,
+    "section_count": 11,
+    "aliases": [
+      ""
+    ]
+  },
+  "35580": {
+    "neo4j_id": 35580,
+    "act_id": "2020_4",
+    "title": "",
+    "year": 2020,
+    "act_number": null,
+    "section_count": 151,
+    "aliases": [
+      ""
+    ]
+  },
+  "35732": {
+    "neo4j_id": 35732,
+    "act_id": "2020_5",
+    "title": "",
+    "year": 2020,
+    "act_number": null,
+    "section_count": 59,
+    "aliases": [
+      ""
+    ]
+  },
+  "35792": {
+    "neo4j_id": 35792,
+    "act_id": "2020_6",
+    "title": "",
+    "year": 2020,
+    "act_number": null,
+    "section_count": 51,
+    "aliases": [
+      ""
+    ]
+  },
+  "35844": {
+    "neo4j_id": 35844,
+    "act_id": "2020_7",
+    "title": "",
+    "year": 2020,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "35876": {
+    "neo4j_id": 35876,
+    "act_id": "2020_8",
+    "title": "",
+    "year": 2020,
+    "act_number": null,
+    "section_count": 47,
+    "aliases": [
+      ""
+    ]
+  },
+  "35924": {
+    "neo4j_id": 35924,
+    "act_id": "2020_9",
+    "title": "",
+    "year": 2020,
+    "act_number": null,
+    "section_count": 56,
+    "aliases": [
+      ""
+    ]
+  },
+  "35981": {
+    "neo4j_id": 35981,
+    "act_id": "2020_10",
+    "title": "",
+    "year": 2020,
+    "act_number": null,
+    "section_count": 59,
+    "aliases": [
+      ""
+    ]
+  },
+  "36041": {
+    "neo4j_id": 36041,
+    "act_id": "2021_1",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 52,
+    "aliases": [
+      ""
+    ]
+  },
+  "36094": {
+    "neo4j_id": 36094,
+    "act_id": "2021_2",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 70,
+    "aliases": [
+      ""
+    ]
+  },
+  "36166": {
+    "neo4j_id": 36166,
+    "act_id": "2021_3",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 52,
+    "aliases": [
+      ""
+    ]
+  },
+  "36219": {
+    "neo4j_id": 36219,
+    "act_id": "2021_4",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 114,
+    "aliases": [
+      ""
+    ]
+  },
+  "36334": {
+    "neo4j_id": 36334,
+    "act_id": "2021_5",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "36340": {
+    "neo4j_id": 36340,
+    "act_id": "2021_6",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 46,
+    "aliases": [
+      ""
+    ]
+  },
+  "36387": {
+    "neo4j_id": 36387,
+    "act_id": "2021_7",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 41,
+    "aliases": [
+      ""
+    ]
+  },
+  "36429": {
+    "neo4j_id": 36429,
+    "act_id": "2021_8",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 35,
+    "aliases": [
+      ""
+    ]
+  },
+  "36465": {
+    "neo4j_id": 36465,
+    "act_id": "2021_9",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 31,
+    "aliases": [
+      ""
+    ]
+  },
+  "36498": {
+    "neo4j_id": 36498,
+    "act_id": "2021_10",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 75,
+    "aliases": [
+      ""
+    ]
+  },
+  "36576": {
+    "neo4j_id": 36576,
+    "act_id": "2021_11",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 48,
+    "aliases": [
+      ""
+    ]
+  },
+  "36625": {
+    "neo4j_id": 36625,
+    "act_id": "2021_12",
+    "title": "",
+    "year": 2021,
+    "act_number": null,
+    "section_count": 56,
+    "aliases": [
+      ""
+    ]
+  },
+  "36682": {
+    "neo4j_id": 36682,
+    "act_id": "2022_1",
+    "title": "",
+    "year": 2022,
+    "act_number": null,
+    "section_count": 57,
+    "aliases": [
+      ""
+    ]
+  },
+  "36740": {
+    "neo4j_id": 36740,
+    "act_id": "2022_2",
+    "title": "",
+    "year": 2022,
+    "act_number": null,
+    "section_count": 10,
+    "aliases": [
+      ""
+    ]
+  },
+  "36751": {
+    "neo4j_id": 36751,
+    "act_id": "2023_1",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 67,
+    "aliases": [
+      ""
+    ]
+  },
+  "36819": {
+    "neo4j_id": 36819,
+    "act_id": "2023_2",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 58,
+    "aliases": [
+      ""
+    ]
+  },
+  "36878": {
+    "neo4j_id": 36878,
+    "act_id": "2023_3",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 57,
+    "aliases": [
+      ""
+    ]
+  },
+  "36937": {
+    "neo4j_id": 36937,
+    "act_id": "2023_4",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 169,
+    "aliases": [
+      ""
+    ]
+  },
+  "37108": {
+    "neo4j_id": 37108,
+    "act_id": "2023_5",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 531,
+    "aliases": [
+      ""
+    ]
+  },
+  "37642": {
+    "neo4j_id": 37642,
+    "act_id": "2023_6",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 16,
+    "aliases": [
+      ""
+    ]
+  },
+  "37659": {
+    "neo4j_id": 37659,
+    "act_id": "2023_7",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 62,
+    "aliases": [
+      ""
+    ]
+  },
+  "37722": {
+    "neo4j_id": 37722,
+    "act_id": "2023_8",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 27,
+    "aliases": [
+      ""
+    ]
+  },
+  "37750": {
+    "neo4j_id": 37750,
+    "act_id": "2023_9",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "37766": {
+    "neo4j_id": 37766,
+    "act_id": "2023_10",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 357,
+    "aliases": [
+      ""
+    ]
+  },
+  "38124": {
+    "neo4j_id": 38124,
+    "act_id": "2023_11",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 22,
+    "aliases": [
+      ""
+    ]
+  },
+  "38147": {
+    "neo4j_id": 38147,
+    "act_id": "2023_12",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 21,
+    "aliases": [
+      ""
+    ]
+  },
+  "38169": {
+    "neo4j_id": 38169,
+    "act_id": "2023_13",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 15,
+    "aliases": [
+      ""
+    ]
+  },
+  "38185": {
+    "neo4j_id": 38185,
+    "act_id": "2023_14",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 5,
+    "aliases": [
+      ""
+    ]
+  },
+  "38191": {
+    "neo4j_id": 38191,
+    "act_id": "2023_15",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 3,
+    "aliases": [
+      ""
+    ]
+  },
+  "38195": {
+    "neo4j_id": 38195,
+    "act_id": "2023_16",
+    "title": "",
+    "year": 2023,
+    "act_number": null,
+    "section_count": 44,
+    "aliases": [
+      ""
+    ]
+  },
+  "38240": {
+    "neo4j_id": 38240,
+    "act_id": "2024_1",
+    "title": "",
+    "year": 2024,
+    "act_number": null,
+    "section_count": 19,
+    "aliases": [
+      ""
+    ]
+  },
+  "38260": {
+    "neo4j_id": 38260,
+    "act_id": "2024_2",
+    "title": "",
+    "year": 2024,
+    "act_number": null,
+    "section_count": 43,
+    "aliases": [
+      ""
+    ]
+  },
+  "38304": {
+    "neo4j_id": 38304,
+    "act_id": "2025_1",
+    "title": "",
+    "year": 2025,
+    "act_number": null,
+    "section_count": 53,
+    "aliases": [
+      ""
+    ]
+  },
+  "38358": {
+    "neo4j_id": 38358,
+    "act_id": "2025_2",
+    "title": "",
+    "year": 2025,
+    "act_number": null,
+    "section_count": 45,
+    "aliases": [
+      ""
+    ]
+  },
+  "38404": {
+    "neo4j_id": 38404,
+    "act_id": "2025_3",
+    "title": "",
+    "year": 2025,
+    "act_number": null,
+    "section_count": 2,
+    "aliases": [
+      ""
+    ]
+  },
+  "38407": {
+    "neo4j_id": 38407,
+    "act_id": "2025_4",
+    "title": "",
+    "year": 2025,
+    "act_number": null,
+    "section_count": 6,
+    "aliases": [
+      ""
+    ]
+  },
+  "38414": {
+    "neo4j_id": 38414,
+    "act_id": "2025_5",
+    "title": "",
+    "year": 2025,
+    "act_number": null,
+    "section_count": 13,
+    "aliases": [
+      ""
+    ]
+  },
+  "38428": {
+    "neo4j_id": 38428,
+    "act_id": "2025_6",
+    "title": "",
+    "year": 2025,
+    "act_number": null,
+    "section_count": 12,
+    "aliases": [
+      ""
+    ]
+  },
+  "38441": {
+    "neo4j_id": 38441,
+    "act_id": "2025_7",
+    "title": "",
+    "year": 2025,
+    "act_number": null,
+    "section_count": 36,
+    "aliases": [
+      ""
+    ]
+  }
+}
